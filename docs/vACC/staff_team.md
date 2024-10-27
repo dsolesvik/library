@@ -1,5 +1,5 @@
 ---
-  title: Staff Team
+  title: Meet the Team
 
 ---
 # vACC Leadership
@@ -19,7 +19,7 @@
 |----------------------------|-------------------|------------|-------|
 | ATC Operations Director    | Chriss Klosowski  | 1306415    |       |
 | Bahrain & Doha FIR Manager | Mohammed Al-Thani | 1148513    |       |
-| Muscat FIR Manager         | VACANT            |            |       |
+| Muscat FIR Manager         |                   |            |       |
 | U.A.E FIR Manager          | Suprojit Paul     | 1351391    |       |
 
 # vACC Marketing Department

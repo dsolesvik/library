@@ -1,8 +1,8 @@
 ---
-  title: Our Airports
+  title: Welcome Pilots!
 
 ---
-This section will cover all the essential foundations for controlling. All documents provided are in accordance with the standards set by ICAO (***ICAO 4444 - PANS ATM***) and the respective ***Civil Aviation Authorities (CAAs)*** regulations and ***eAIPs***.
+In this section, pilots will find all the relevant information they need for their flights to and from our airports!
 
 !!! Warning 
 

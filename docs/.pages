@@ -1,6 +1,6 @@
 nav:
     - Home: index.md
-    - Staff: staff
+    - vACC: vacc
     - Policies: policies
     - Pilots: pilots
     - Controllers: controllers
