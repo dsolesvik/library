@@ -1,0 +1,9 @@
+nav:
+    - Home: index.md
+    - Staff: staff
+    - Policies: policies
+    - Pilots: pilots
+    - Controllers: controllers
+    - Aerodrome: aerodrome
+    - TMA: tma
+    - Enroute: enroute
