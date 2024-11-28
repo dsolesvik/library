@@ -2,7 +2,7 @@
   title: Welcome Pilots!
 
 ---
-In this section, pilots will find all the relevant information they need for their flights to and from our airports!
+Welcome to the Pilots section of our library! Here, you will find all the resources you need to operate within our airports. Please note that this section is still under active development, and some aerodrome data may not yet be available.
 
 !!! Warning 
 
