@@ -1,4 +1,4 @@
-# OMAA - Sheikh Zayed
+# Abu Dhabi/Sheikh Zayed
 ## Airport Overview
 ### Information
 

@@ -1,4 +1,4 @@
-# OMSJ - Sharjah
+# Sharjah
 ## Airport Overview
 ### Information
 

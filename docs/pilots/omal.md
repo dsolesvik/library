@@ -1,4 +1,4 @@
-# OMAL - Al-Ain
+# Al-Ain
 ## Airport Overview
 ### Information
 

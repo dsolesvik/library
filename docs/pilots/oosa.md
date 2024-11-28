@@ -1,4 +1,4 @@
-# OOSA - Salalah
+# Salalah
 ## Airport Overview
 ### Information
 

@@ -1,4 +1,15 @@
 title: Pilots
 nav:
-    - Overview: index.md
-    - ...
+    - Welcome: index.md
+    - Pilot Briefings:
+      - omaa.md
+      - omal.md
+      - omad.md
+      - otbd.md
+      - othh.md
+      - omdb.md
+      - omfj.md
+      - ooms.md
+      - omrk.md
+      - oosa.md
+      - omsj.md

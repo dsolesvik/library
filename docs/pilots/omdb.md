@@ -1,4 +1,4 @@
-# OMDB - Dubai
+# Dubai
 ## Airport Overview
 ### Information
 

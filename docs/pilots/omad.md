@@ -1,4 +1,4 @@
-# OMAD - Al-Bateen
+# Al-Bateen
 ## Airport Overview
 ### Information
 

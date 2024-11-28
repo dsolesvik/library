@@ -1,4 +1,4 @@
-# OMDW - Al-Maktoum
+# Al-Maktoum
 ## Airport Overview
 ### Information
 

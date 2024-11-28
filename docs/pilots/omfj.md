@@ -1,4 +1,4 @@
-# OMFJ - Fujairah
+# Fujairah
 ## Airport Overview
 ### Information
 

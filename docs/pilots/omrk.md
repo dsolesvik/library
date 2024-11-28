@@ -1,4 +1,4 @@
-# OMRK - Ras Al Khaimah
+# Ras Al Khaimah
 ## Airport Overview
 ### Information
 

@@ -1,4 +1,4 @@
-# OOMS - Muscat
+# Muscat
 ## Airport Overview
 ### Information
 

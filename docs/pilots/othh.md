@@ -1,4 +1,4 @@
-# OTHH - Doha-Hamad
+# Doha-Hamad
 ## Airport Overview
 ### Information
 

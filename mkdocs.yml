@@ -69,6 +69,10 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/arabian-vacc
 
+plugins:
+    - search
+    - awesome-pages
+
 extra_css:
   - stylesheets/extra.css
 

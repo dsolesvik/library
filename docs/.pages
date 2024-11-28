@@ -1,0 +1,9 @@
+order_by: title
+nav:
+    - Home: index.md
+    - foundations
+    - aerodrome
+    - terminal
+    - enroute
+    - pilots
+    - policies
