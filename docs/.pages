@@ -1,9 +1,0 @@
-nav:
-    - Home: index.md
-    - vACC: vacc
-    - Policies: policies
-    - Pilots: pilots
-    - Controllers: controllers
-    - Aerodrome: aerodrome
-    - TMA: tma
-    - Enroute: enroute

@@ -1,10 +1,13 @@
 site_name: Arabian vACC - Library
-site_url: ""
+site_url: https://library.arabian-vacc.com
 repo_url: https://github.com/arabian-vacc/library
 repo_name: arabian-vacc/library
+edit_uri: ""
+copyright: ""
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Mulish
     code: Red Hat Mono
@@ -12,7 +15,6 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.tabs
-    - navigation.footer
   palette:
     # Dark Mode
     - scheme: slate

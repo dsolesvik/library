@@ -4,4 +4,3 @@ hide:
     - navigation
     - toc
 ---
-
