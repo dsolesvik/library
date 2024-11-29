@@ -102,6 +102,8 @@ Several routing restrictions exist within UAE airspace and are detailed in the U
 
 If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged.
 
+The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the "User Submitted Routes" option, highlighted in purple, when planning a flight.
+
 !!! example
     **Controller**: "RJA615, cleared to Amman, via SENPA1G, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 4000ft, squawk 0553."
 

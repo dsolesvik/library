@@ -1,5 +1,6 @@
 title: Dubai
 nav:
+    - document_info.md
     - aerodrome_information.md
     - gmp.md
     - gmc.md
