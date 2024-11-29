@@ -49,6 +49,9 @@ Aircraft clearance may also be delivered by DCL. This type of clearance reduces 
 ### 2.2.4 Aircraft requiring a reroute
 Aircraft requiring a reroute shall not be given a DCL. Instead, a voice clearance must be used. This shall be communicated by ACARS datalink message or on frequency.
 
+### 2.2.5 Voice clearance
+Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
+
 ## 2.3 Departure Procedures
 ### 2.3.1 RNAV Standard instrument departures
 Dubai primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and runways in use.
