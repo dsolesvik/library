@@ -43,7 +43,8 @@ Departing aircraft shall be instructed to remain on the delivery frequency and r
 ### 2.2.3 Datalink clearance (DCL)
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
 
-Controllers shall ensure that DCL is available to be used at all times.
+!!! info
+    Controllers shall ensure that DCL is available to be used at all times.
 
 ### 2.2.4 Aircraft requiring a reroute
 Aircraft requiring a reroute shall not be given a DCL. Instead, a voice clearance must be used. This shall be communicated by ACARS datalink message or on frequency.

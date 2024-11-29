@@ -2,7 +2,7 @@
 ## 1.1 Aerodrome Details
 | ICAO Code                          | OMDB                 |
 |------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    | 5G                   |
+| Aerodrome Reference Point (ARP)    | N 25 15.2 E 055 21.9 |
 | Elevation                          | 62 ft                |
 | Magnetic Variation / Annual Change | 2° E (2017) / +0.05° |
 | Transition Altitude / Level        | 13,000 ft / FL150    |
