@@ -93,14 +93,4 @@
     <td>Updated AIR handoff phraseology,<br>Updated ATS frequencies,<br>Updated GMC stand allocation procedures,<br>Updated appendix diagrams,<br>Updated GMC standard taxi routings,<br>Updated AIR standard departure points,<br>Updated SRO RRSM criteria,<br>Added GMC "bias" taxi routings,<br>Revised GMP flight-plan amendment procedures,<br>Revised GMP VFR flight procedures,<br>Added document &amp; external references,<br>Removed RouteChecker,<br>Removed D-APO</td>
     <td>22 NOV 2024</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </tbody></table>
