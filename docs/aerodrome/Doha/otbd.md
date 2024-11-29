@@ -1,1 +1,0 @@
-# OTBD - Doha
