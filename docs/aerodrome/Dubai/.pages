@@ -1,10 +1,10 @@
 title: Dubai
 nav:
-    - document_info.md
-    - aerodrome_information.md
+    - info.md
+    - aerodrome.md
     - gmp.md
     - gmc.md
     - air.md
     - hotspots.md
-    - appendix_taxi_diagrams.md
+    - appendix_taxi.md
     - appendix_aor.md
