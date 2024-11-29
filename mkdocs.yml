@@ -71,7 +71,13 @@ extra:
 
 plugins:
     - search
-    - awesome-pages
+    - awesome-pages:
+        filename: .index
+        collapse_single_pages: true
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title
 
 extra_css:
   - stylesheets/extra.css

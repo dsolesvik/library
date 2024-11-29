@@ -1,5 +1,5 @@
 title: Dubai
-order_by: title
+sort_type: natural
 nav:
     - info.md
     - aerodrome.md
