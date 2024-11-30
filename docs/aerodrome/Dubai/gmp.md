@@ -225,6 +225,7 @@ Aircraft that have already been cleared to depart using the old configuration sh
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai Creek VFR Routes**” chart for traffic navigating within the CTR and the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Dubai CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.8.1, 2.8.2 and 2.8.3.  
 
 At any time, AIR control and Approach/Departure control may impose partial or full restrictions to VFR operations out of OMDB during periods of increased IFR activity or due to restrictions and limitations to aircraft type. It is imperative that GMP is in continuous coordination with AIR control and Approach/Departure control for departing VFR traffic.
+
 ### 2.8.1 VFR departures into uncontrolled airspace
 VFR traffic shall be cleared via the most appropriate VFR route towards their destination. If necessary, the clearance may be amended by AIR prior to departure.
 

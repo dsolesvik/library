@@ -149,9 +149,11 @@ Aircraft already cleared for departure under the old configuration must be re-cl
 
 ## 2.8 VFR aircraft
 
-### 2.8.1 VFR departures into uncontrolled airspace
+### 2.8.1 Helicopter aicraft: departing to and/or arriving at OTBD crossing OTHH
 
-### 2.8.2 VFR departures into controlled airspace
 
-### 2.8.3 VFR traffic remaining in circuit
+### 2.8.2 Helicopter aircraft: arriving and departing OTBD
 
+### 2.8.3 Fixed wing aircraft: departing from OTBD to the North
+
+### 2.8.4 Fixed wing aircraft: arriving to OTBD from the North
