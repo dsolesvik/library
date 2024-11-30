@@ -2,7 +2,7 @@
   title: Enroute
 ---
 <figure markdown>
-![Terminal](img/hero_banner.png)
+![Enroute](img/hero_banner.png)
 </figure>
 
 ## Scope
