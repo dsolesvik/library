@@ -148,8 +148,27 @@ Coordination between AIR, GMP, GMC, and approach/departure is required for the f
 Aircraft already cleared for departure under the old configuration must be re-cleared if they have not yet requested pushback.
 
 ## 2.8 VFR aircraft
+VFR flight activity should be planned in accordance to published VFR charts, specifically the “**OTBD: Helicopter Route**” & “**OTBD: VFR**” charts for traffic navigating within the CTR. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.8.1, 2.8.2 and 2.8.3. 
+
+All aircraft returning from general training flying areas shall request joining instructions prior to leaving these areas.
 
 ### 2.8.1 Helicopter aicraft: departing to and/or arriving at OTBD crossing OTHH
+
+
+#### 2.8.1.1 Suspension of the orange route
+The orange route will be suspended under the following conditions:
+
+- When the cloud ceiling is below 2000ft and/or visibility is less than 3500 m;
+- During peak arrival periods and during independent parralel operations;
+- Doha-Hamad supervisor for any other valid reasons suspends the route with at least 15 minutes notice to Doha;
+
+
+
+
+
+
+
+
 
 
 ### 2.8.2 Helicopter aircraft: arriving and departing OTBD
