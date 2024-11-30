@@ -148,31 +148,140 @@ Coordination between AIR, GMP, GMC, and approach/departure is required for the f
 Aircraft already cleared for departure under the old configuration must be re-cleared if they have not yet requested pushback.
 
 ## 2.8 VFR aircraft
-VFR flight activity should be planned in accordance to published VFR charts, specifically the “**OTBD: Helicopter Route**” & “**OTBD: VFR**” charts for traffic navigating within the CTR. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.8.1, 2.8.2 and 2.8.3. 
+VFR traffic clearances are managed by AIR at the holding point. When an aircraft first contacts the ground frequency, it must provide the following information:
 
-All aircraft returning from general training flying areas shall request joining instructions prior to leaving these areas.
+- Callsign;
+- Aircraft type;
+- Current position;
+- Person(s) on board;
+- Current ATIS;
+- Intentions;
 
-### 2.8.1 Helicopter aicraft: departing to and/or arriving at OTBD crossing OTHH
+After the initial call with all required information, GMC will taxi the aircraft to the active runway and relay the details to AIR for coordination.
 
+!!! example
+    **Pilot**: "Doha Ground, A7DDD, Diamond DA40, at the civil aviation college apron, 2 POB, with information C, for local flight to the west, request taxi."
 
-#### 2.8.1.1 Suspension of the orange route
-The orange route will be suspended under the following conditions:
+    **Controller**: "A7DDD, Doha Ground, information C is correct, taxi via Q and hold short runway 15."
 
-- When the cloud ceiling is below 2000ft and/or visibility is less than 3500 m;
-- During peak arrival periods and during independent parralel operations;
-- Doha-Hamad supervisor for any other valid reasons suspends the route with at least 15 minutes notice to Doha;
+    **Pilot**: "taxi via Q and hold short runway 15, A7DDD."
 
+    **Controller**: "ADD, contact Doha Tower on 118.900."
 
+    **Pilot**: "Doha Tower on 118.900, ADD."
 
+## 2.9 Departure pushback procedures
+### 2.9.1 General pushback procedures
+Assuming no obstructions, aircraft shall be instructed to push back immediately. 
 
+Aircraft requesting pushback without squawking their assigned transponder code or having their transponder turned on will be instructed to hold position and set the correct code. They must not be cleared to move until this is done.
 
+Pushback direction is based primarily on aircraft location and runway configuration.
 
+!!! example
+    **Pilot**: "Doha Ground, QQE101, at stand A8 request push and start."
 
+    **Controller**: "QQE101, stand A8, push and start approved face south."
 
+    **Pilot**: "Push and start approved face south, QQE101."
 
+Conditional pushback instructions may also be issued if an aircraft is taxiing behind another waiting for pushback.
 
-### 2.8.2 Helicopter aircraft: arriving and departing OTBD
+!!! example
+    **Pilot**: "Doha Ground, TCM4TM, on stand A3 request pushback."
 
-### 2.8.3 Fixed wing aircraft: departing from OTBD to the North
+    **Controller**: "TCM4TM, behind the Qatar Executive Gulfstream 650 passing right to left, push and start approved, face south."
 
-### 2.8.4 Fixed wing aircraft: arriving to OTBD from the North
+    **Pilot**: "After the Qatar Executive Gulfstream 650 passes from right to left, push and start approved, face south, TCM4TM."
+
+### 2.9.2 Pushback restrictions
+Simultaneous pushback operations are not permitted into the same alleyway for stands G1 to G4 and W6 to W7.
+
+For all other stands, aircraft shall be separated by at least two aircraft stands before they are given simultaneous pushback.
+
+## 2.10 Departure taxi procedures
+### 2.10.1 General departure taxi procedures
+Where aircraft are taxied to runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi.
+
+To deconflict traffic, and to reduce the length of taxi clearances, hold short instructions shall be used wherever possible.
+
+!!! example
+    **Pilot**: "Doha Ground, TCM4TM, request taxi."
+
+    **Controller**: "TCM4TM, taxi via D, hold short of B."
+
+    **Pilot**: "Taxi via D, hold short of B, TCM4TM."
+
+### 2.10.2 Runway 33 departure taxi procedures
+When departing from runway 33, aircraft taxiing from the west side of the aerodrome will be instructed to taxi via taxiway D to holding points F or G. 
+
+Aircraft on the east side will be directed to taxi to holding point B1 for crossing, then proceed via taxiway D to holding points F or G. 
+
+Extreme caution must be exercised between taxiways D and C, as this area is a rapid exit taxiway for vacating aircraft. The same caution applies between taxiways C1 and D1.
+
+### 2.10.3 Runway 15 departure taxi procedures
+When departing from runway 15, aircraft taxiing from the west side of the aerodrome will be directed to taxi via taxiway D to holding point A. 
+
+Aircraft on the east side will be instructed to taxi to holding point B1 for crossing, then continue via taxiway D to holding point A. 
+
+If an aircraft requires a full-length departure and backtracking, it can request this after being handed over to the tower.
+
+## 2.11 Arrival taxi procedures
+### 2.11.1 General arrival taxi procedures
+GMC shall assign an arrival stand to the aircraft when they are on final approach.
+
+Once the aircraft is handed off to GMC, they shall be taxied to their stand in accordance with the procedures laid down in 2.11.4.
+
+(See 4.2)
+
+### 2.11.2 Runway 33 arrival taxi procedures
+Aircraft shall vacate on the respective rapid exit taxiways such as C or C1 and are then handed off to GMC.
+
+Aircraft shall be taxied via D or D1 to the appropriate stand.
+
+### 2.11.3 Runway 15 arrival taxi procedures
+Aircraft shall vacate via E1 or utilize the turning loop available to then vacate via C1 or C when able. Once they have vacated the runway they are then handed off to GMC.
+
+Aircraft shall be taxied via D or D1 to the appropriate stand.
+
+### 2.11.4 Stand allocation procedures
+Aircraft shall be assigned stands automatically using Ground Radar Plugin Stand Assigner. If this is not possible, aircraft shall manually be assigned a stand in accordance with the following procedure:
+
+|  Stand(s)  |               Operator               |
+|:----------:|:------------------------------------:|
+|  A1 to A6  |                 VIP(s)               |
+|  A9 to A18 |             Low-cost, QTR            |
+|  G1 to G4  | General Aviation, Corporate Aviation |
+|  W6 to W7  | General Aviation, Corporate Aviation |
+|  C1 to C9  |               QTR, QQE               |
+|  E1 to E24 |                  QTR                 |
+| E32 to E37 |                  QTR                 |
+| E25 to E27 |                  QQE                 |
+| E29 to E31 |              Maintenance             |
+<figure markdown>
+  <figcaption>Table 3-1: Stand allocation procedure</figcaption>
+</figure>
+
+### 2.11.5 Stand restrictions
+Stands A1 to A18 can accommodate aircraft up to code E. Stands with an "N" or "S" designator have specific handling limitations and are restricted to aircraft up to code C. 
+
+Stands G1 to G4, as well as W6 and W7, are limited to code A. 
+
+Stands E1 to E37 support aircraft up to code E, while those with an "L" or "R" designator have handling restrictions up to code C. 
+
+Stands C1 to C9 are suitable for aircraft up to code C.
+
+## 2.12 Low visibility operations (LVO)
+### 2.12.1 LVO taxi routes
+When Low Visibility Operations (LVO) are in effect, all taxiways are approved for LVO, with no restrictions.
+
+All runway holding points are designated as CAT II/III holding points and must be used during LVO conditions (4.6.2).
+
+## 2.13 Designated areas of responsibility
+### 2.13.1 GMC positions
+GMC is responsible for all aprons and associated taxiways.
+
+(See 6.1)
+
+### 2.13.2 Handoff procedure
+Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Hold short instructions may be used to satisfy this requirement.
