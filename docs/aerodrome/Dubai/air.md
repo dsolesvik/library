@@ -174,7 +174,7 @@ These headings shall be coordinated with departures control.
 ### 4.3.7 Stopping a departure
 Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation. 
 
-It must be noted though, that the instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic and all times as well as runway incursion hotspots.
+It must be noted though, that the instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic at all times as well as runway incursion hotspots.
 
 !!! example
     **Controller**: "UAE1KM, stop immediately, I say again stop immediately, truck entering the runway!"

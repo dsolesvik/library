@@ -83,7 +83,7 @@ A radar departure clearance shall contain the following information:
 - Initial climb;
 - Assigned SSR code
 
-Aircraft on a radar vectors departure shall have the text VCTRS inserted to the scratchpad section of their entry on the departure list.
+Aircraft on a radar vectors departure shall have the text VCTRS inserted to the scratchpad section of their entry on the departure list and have an intiial climb set to **2,000 feet**.
 
 All radar vectors departures shall be instructed to contact Doha Approach (West) once airborne.
 
@@ -275,7 +275,7 @@ Stands C1 to C9 are suitable for aircraft up to code C.
 ### 2.12.1 LVO taxi routes
 When Low Visibility Operations (LVO) are in effect, all taxiways are approved for LVO, with no restrictions.
 
-All runway holding points are designated as CAT II/III holding points and must be used during LVO conditions (4.6.2).
+Runway 33 is the only CAT II/III approved runway and must be used during LVO conditions (4.6.2).
 
 ## 2.13 Designated areas of responsibility
 ### 2.13.1 GMC positions
