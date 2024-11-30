@@ -141,8 +141,17 @@ The TOBT system allows aircraft to push back, taxi to the runway holding point, 
     **Controller**: "QQE101, hold position. Number 2 for startup, expect pushback at time 45."
 
 ## 2.7 Runway change procedure
-Runway changes must be coordinated between Doha APP, Doha AIR, and Hamad AIR due to the interdependencies outlined in section 3.2. AIR must give GMC sufficient notice before altering the runway configuration. 
+Runway changes must be coordinated between Doha AIR, Hamad AIR, and Doha APP due to the interdependencies outlined in section 3.2. AIR must give GMC sufficient notice before altering the runway configuration. 
 
 Coordination between AIR, GMP, GMC, and approach/departure is required for the final departure using the previous configuration. 
 
 Aircraft already cleared for departure under the old configuration must be re-cleared if they have not yet requested pushback.
+
+## 2.8 VFR aircraft
+
+### 2.8.1 VFR departures into uncontrolled airspace
+
+### 2.8.2 VFR departures into controlled airspace
+
+### 2.8.3 VFR traffic remaining in circuit
+

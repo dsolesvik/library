@@ -1,1 +1,0 @@
-# OMRK - Ras Al Khaimah

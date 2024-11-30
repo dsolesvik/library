@@ -1,1 +1,0 @@
-# OTHH - Doha-Hamad
