@@ -72,7 +72,6 @@ extra:
 plugins:
     - search
     - awesome-pages:
-        collapse_single_pages: true
         strict: false
         order: asc
         sort_type: natural
