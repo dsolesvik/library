@@ -36,7 +36,7 @@ Departing aircraft shall be instructed to remain on the delivery frequency and r
 
     **Controller**: "UAE1GP, information F correct, cleared to Nice via the NABIX3F departure, maintain altitude 4000ft, squawk 0542."
 
-    **Pilot**: "Cleared to Nice, NABIX3F departure, maintain altitude 4000ft, squawk 0542."
+    **Pilot**: "Cleared to Nice, NABIX3F departure, maintain altitude 4000ft, squawk 0542, UAE1GP."
 
     **Controller**: "UAE1GP, readback correct, QNH 1008, report ready for pushback."
 
