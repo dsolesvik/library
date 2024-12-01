@@ -5,3 +5,6 @@ Areas indicated in a solid colour are the sole responsibility of the respective 
 Uncoloured areas are the responsibility of the GMC controller.
 
 ## 7.2 All configurations
+<figure markdown>
+![Areas of Responsibility](img/aor.png)
+</figure>
