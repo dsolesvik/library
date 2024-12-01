@@ -25,7 +25,7 @@
   </tr>
     <tr>
     <td>01/2025</td>
-    <td>Updated airspace positions,<br>Updated TORA + ASDA data,<br>Updated SID + initial climb + climb via SID phraseology,<br>Updated RNP radar departure + radar vector departure procedures,<br>Updated standard routings,<br></td>
+    <td>Updated airspace positions,<br>Updated TORA + ASDA data,<br>Updated SID + initial climb + climb via SID phraseology,<br>Updated RNP radar departure + radar vector departure procedures,<br>Updated standard routings,<br>Updated pushback procedures,<br></td>
     <td>01 JAN 2025</td>
   </tr>
 </tbody></table>
