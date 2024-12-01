@@ -58,34 +58,68 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuvre in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.
 
 ### 3.2.4 Concourse A
-Aircraft parked at Concourse A shall be instructed to face West onto taxiway W and W1. Aircraft on stand A11 shall be instructed to face either North or South, depending on their assigned departure runway.
+Aircraft parked at Concourse A shall be instructed to face West onto taxiway W and W1. 
+
+Aircraft parked on stand A11 shall be instructed to face either North or South, depending on their assigned departure runway.
+
+Aircraft may occasionally be pushed onto taxiway W2, facing West.
 
 ### 3.2.5 Concourse B
-Aircraft parked at Concourse B shall be instructed to face East onto taxiway E and E1. Aircraft on stand B10 shall be instructed to face either North or South, depending on their assigned departure runway.
+Aircraft parked at Concourse B shall be instructed to face East onto taxiway E and E1. 
+
+Aircraft parked on stand B10 shall be instructed to face either North or South, depending on their assigned departure runway.
+
+Aircraft may occasionally be pushed onto taxiway E2, facing East.
 
 ### 3.2.6 Concourse C
-Aircraft parked at Concourse C shall be instructed to face either North or South depending on their assigned departure runway onto W1/W4 or E1/E4 as appropriate.
+Aircraft parked at Concourse C on stands C1 to C8 shall be instructed to push back facing south onto E1 or W1 as required. 
+
+Aircraft parked on stands C9 to C12 shall be instructed to push back facing north onto E4 or W4 as required.
+
+In some cases, aircraft may be pushed onto E2 or W2 facing south, or onto E3 or W3 facing north, based on operational needs.
 
 ### 3.2.7 Concourse D
-Aircraft parked at Concourse D shall be instructed to face either North or South depending on their assigned departure runway onto W4.
+Aircraft parked at Concourse D shall be instructed to face North onto W4.
+
+Aircraft may occasionally be pushed onto W3 facing North.
 
 ### 3.2.8 Concourse E
-Aircraft parked at Concourse E shall be instructed to face either North or South depending on their assigned departure runway onto E4.
+Aircraft parked at Concourse E shall be instructed to face North onto E4.
+
+Aircraft may occasionally be pushed onto E3 facing North.
 
 ### 3.2.9 Central Concourse
 Aircraft parked at the Central Concourse shall be instructed to face either East or West depending on their assigned departure runway onto N.
 
 ### 3.2.10 Remote Transfer H
-Aircraft parked at the Remote Trasnfer H Apron shall be instructed to face either North or South depending on their assigned departure runway onto W2/W3 or J.
+Aircraft parked at the Remote Transfer H Apron on stands H1 to H2 shall be instructed to push back facing west onto W2. 
+
+Aircraft parked on H3C shall be instructed to push back facing South onto W2.
+
+Aircraft parked on stands H4 to H6 shall be instructed to push back facing North onto W3.
+
+Aircraft parked on stands H7 to H10 shall be instructed to push back facing either North or South depending on their assigned departure runway onto J.
+
+In some cases, aircraft may be pushed onto W1 facing south or west, or onto W4 facing north, based on operational needs.
 
 ### 3.2.11 Remote Transfer G
-Aircraft parked at the Remote Trasnfer G Apron shall be instructed to face either North or South depending on their assigned departure runway onto E2/E3 or C.
+Aircraft parked at the Remote Transfer G Apron on stands G1 to G2 shall be instructed to push back facing East onto E2. 
+
+Aircraft parked on G3C shall be instructed to push back facing South onto E2.
+
+Aircraft parked on stands G4 to G6 shall be instructed to push back facing North onto E3.
+
+Aircraft parked on stands G7 to G10 shall be instructed to push back facing either North or South depending on their assigned departure runway onto C.
+
+In some cases, aircraft may be pushed onto E1 facing south or east, or onto E4 facing north, based on operational needs.
 
 ### 3.2.12 Apron Cargo
 Aircraft parked at the Apron Cargo shall be instructed to face either North or South depending on their assigned departure runway onto F.
 
 ### 3.2.13 Apron V
-Aircraft parked at Apron V shall be instructed to face either North or South depending on their assigned departure runway onto V or C.
+Aircraft parked at Apron V  on stands V1 to V7 shall be instructed to face either North or South depending on their assigned departure runway onto V.
+
+Aircraft parked on stands V8 to V12 shall be instructed to push back facing either North or South onto C.
 
 ### 3.2.14 Apron 4
 Aircraft parked at Apron 4 shall be instructed to face either North or South depending on their assigned departure runway onto C or Q.
@@ -98,8 +132,37 @@ Aircraft parked at Apron 6 shall be instructed to face either North or South dep
 
 ## 3.3 Departure taxi procedures
 ### 3.3.1 General departure taxi procedures
+Aircraft should be assigned the most suitable taxi route for their designated departure runway. 
 
-### 3.3.2 Dual runway 30R departure taxi procedures
+Code F aircraft (A380/B747-8) are not permitted to taxi onto taxiway W (between taxiway H and stand A4), taxiway E (between taxiway D and stand B2), or taxiway Y. 
+
+!!! info
+    Where aircraft are taxied to runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi.
+
+!!! example
+    **Pilot**: "QTR3B, request taxi."
+
+    **Controller**: "QTR3B, taxi via W2, K, hold short L, runway 34L."
+
+    **Pilot**: "Taxi via W2, K, hold short L, runway 34L, QTR3B."
+
+To deconflict traffic, and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
+
+!!! example
+    **Pilot**: "QTR98K, request taxi."
+
+    **Controller**: "QTR98K, taxi via W2, hold short J."
+
+    **Pilot**: "Taxi via W2, hold short J, QTR98K."
+
+### 3.3.2 Dual runway 34L departure taxi procedures
+#### 3.3.2.1 Concourse A, C (West), and D
+Aircraft that have pushed back onto taxiway W shall taxi forward to either L or L1.
+
+Aircraft pushed back onto taxiways W1, W2, W3, or W4 should proceed to J or K and continue to holding points L2, L1, or L.
+
+#### 3.3.2.2 Concourse B, C (East), and E
+Aircraft that have pushed back onto taxiway E shall taxi to join C, S westbound, 
 
 ### 3.3.3 Single runway 30R departure taxi procedures
 
