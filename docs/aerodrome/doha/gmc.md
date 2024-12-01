@@ -83,7 +83,7 @@ A radar departure clearance shall contain the following information:
 - Initial climb;
 - Assigned SSR code
 
-Aircraft on a radar vectors departure shall have the text VCTRS inserted to the scratchpad section of their entry on the departure list and have an intiial climb set to **2,000 feet**.
+Aircraft on a radar vectors departure shall have the text VCTRS inserted to the scratchpad section of their entry on the departure list and have an initial climb set to **2,000 feet**.
 
 All radar vectors departures shall be instructed to contact Doha Approach (West) once airborne.
 
@@ -111,14 +111,53 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 <table><thead>
   <tr>
     <th>Destination</th>
-    <th>Level Restrictions</th>
+    <th>Level Restriction</th>
     <th>Routing</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>Tehran FIR Northbound</td>
-    <td>-</td>
-    <td>DAVMO M318 GABKO</td>
+    <td>Northern Emirates (OMDB, OMDW, OMFJ, OMFJ, OMRK, OMDM)</td>
+    <td>FL210</td>
+    <td>ALSEM L305 ASTOG</td>
+  </tr>
+  <tr>
+    <td>Transiting Tehran FIR (FL200- @ ALKAN)</td>
+    <td>FL230</td>
+    <td>VAXIN T800 DASUT</td>
+  </tr>
+  <tr>
+    <td>Transiting Tehran FIR (FL190 @RAGAS)</td>
+    <td>FL190</td>
+    <td>ALVEN T430 RAGAS</td>
+  </tr>
+  <tr>
+    <td>Southern Emirates (OMAA, OMAD, OMAM, OMAL)</td>
+    <td>FL270</td>
+    <td>KUPRO</td>
+  </tr>
+  <tr>
+    <td>Bahrain (OBBI, OBBS, OBKH)</td>
+    <td>12,000ft</td>
+    <td>TULUB B457 / M444 / T444 KINID</td>
+  </tr>
+  <tr>
+    <td>Transiting Bahrain FIR onwards landing Kuwait FIR</td>
+    <td>FL430</td>
+    <td>TULUB M444 KINID</td>
+  </tr>
+  <tr>
+    <td>Transiting Jeddah FIR onwards landing Kuwait FIR</td>
+    <td>FL280</td>
+    <td>TULUB B457 KINID</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Transiting Kuwait FIR</td>
+    <td>FL430</td>
+    <td>LUBET T934 IMLAD</td>
+  </tr>
+  <tr>
+    <td>FL320</td>
+    <td>LUBET L934 IMLAD</td>
   </tr>
 </tbody></table>
 <figure markdown>
@@ -129,7 +168,7 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
 ### 2.5.1 Level restrictions
 Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 2-2. This is based on direction and type of flight. 
 
-Should an aircraft file an invalid cruise level, GMP shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
+Should an aircraft file an invalid cruise level, GMC shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
 
 ## 2.6 Delay mitigation
 ### 2.6.1 Target off-block time (TOBT)
@@ -143,7 +182,7 @@ The TOBT system allows aircraft to push back, taxi to the runway holding point, 
 ## 2.7 Runway change procedure
 Runway changes must be coordinated between Doha AIR, Hamad AIR, and Doha APP due to the interdependencies outlined in section 3.2. AIR must give GMC sufficient notice before altering the runway configuration. 
 
-Coordination between AIR, GMP, GMC, and approach/departure is required for the final departure using the previous configuration. 
+Coordination between AIR, GMC, and approach/departure is required for the final departure using the previous configuration. 
 
 Aircraft already cleared for departure under the old configuration must be re-cleared if they have not yet requested pushback.
 
