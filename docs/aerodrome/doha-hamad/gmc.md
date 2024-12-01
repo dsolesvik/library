@@ -128,7 +128,9 @@ Aircraft parked at Apron 4 shall be instructed to face either North or South dep
 Aircraft parked at Apron 5 shall be instructed to face either North or South depending on their assigned departure runway onto K. Aircraft parked on stands 551 to 564 shall be instructed to face west onto Y.
 
 ### 3.2.16 Apron 6
-Aircraft parked at Apron 6 shall be instructed to face either North or South depending on their assigned departure runway onto S2 or S4.
+Aircraft parked at Apron 6 shall be instructed to face south onto S2 or S4 when departing from runway 34L. For departures from runway 34R, they should face north.
+
+For departures from runways 16L or 16R, aircraft should face north onto S2 or S4.
 
 ## 3.3 Departure taxi procedures
 ### 3.3.1 General departure taxi procedures
@@ -142,9 +144,9 @@ Code F aircraft (A380/B747-8) are not permitted to taxi onto taxiway W (between 
 !!! example
     **Pilot**: "QTR3B, request taxi."
 
-    **Controller**: "QTR3B, taxi via W2, K, hold short L, runway 34L."
+    **Controller**: "QTR3B, taxi via W2, K, holding point L, runway 34L."
 
-    **Pilot**: "Taxi via W2, K, hold short L, runway 34L, QTR3B."
+    **Pilot**: "Taxi via W2, K, holding point L, runway 34L, QTR3B."
 
 To deconflict traffic, and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
 
@@ -155,26 +157,42 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 
     **Pilot**: "Taxi via W2, hold short J, QTR98K."
 
-### 3.3.2 Dual runway 34L departure taxi procedures
-#### 3.3.2.1 Concourse A, C (West), and D
-Aircraft that have pushed back onto taxiway W shall taxi forward to either L or L1.
+### 3.3.2 Runway 34L departure taxi procedures
+#### 3.3.2.1 Concourse A, C (West), D, and Remote Transfer H.
+Aircraft that have pushed back onto taxiway W shall taxi to holding point L or L1.
 
-Aircraft pushed back onto taxiways W1, W2, W3, or W4 should proceed to J or K and continue to holding points L2, L1, or L.
+Aircraft that have pushed back onto taxiway J shall taxi to holding points L2, L1, or L.
 
-#### 3.3.2.2 Concourse B, C (East), and E
-Aircraft that have pushed back onto taxiway E shall taxi to join C, S westbound, 
+Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi to J or K and proceed to holding points L2, L1, or L.
 
-### 3.3.3 Single runway 30R departure taxi procedures
+#### 3.3.2.2 Concourse B, C (East), E, and Remote Transfer G
+Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join C, S, and K and proceed to holding points L2, L1, or L.
 
-### 3.3.4 Single runway 30L departure taxi procedures
+Aircraft that have pushed back onto taxiway C shall taxi to join S, K, and proceed to holding points L2, L1, or L.
 
-### 3.3.5 Dual runway 12R departure taxi procedures
+#### 3.3.2.3 Central Concourse
+Aircraft that have pushed back onto taxiway N shall taxi to join S, K, and continue to holding points L2, L1, or L.
 
-### 3.3.6 Single runway 12R departure taxi procedures
+#### 3.3.2.4 Apron Cargo
+Aircraft that have pushed back onto taxiway F shall taxi to join C, S, K, and continue to holding point L2, L1, or L.
 
-### 3.3.7 Single runway 12L departure taxi procedures
+#### 3.3.2.5 Apron V
+Aircraft that have pushed back onto taxiway V shall taxi to join C, S, K, and continue to holding point L2, L1, or L.
 
-### 3.3.8 Departure handoff procedures
+Aircraft that have pushed back onto taxiway C shall taxi to join S, K, and continue to holding point L2, L1, or L.
+
+#### 3.3.2.6 Apron 4
+Aircraft that have pushed back onto taxiway Q shall taxi to join F, C, S, K, and continue to holding point L2, L1, or L.
+
+#### 3.3.2.7 Apron 5
+Aircraft that have pushed back onto taxiway K shall taxi to join holding point L2, L1, or L.
+
+Aircraft that have pushed back onto taxiway Y shall taxi to join K and continue to holding point L2, L1, or L.
+
+#### 3.3.2.8 Apron 6
+Aircraft that have pushed back onto taxiway S2 shall taxi to join S3, P, and continue to holding point M1, M2, or M3.
+
+Aircraft that have pushed back onto taxiway S4 shall taxi to join P and continue to holding point M1, M2, or M3.
 
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures
