@@ -31,7 +31,7 @@ GMC shall obtain a full readback of the clearance. If the pilot does not report 
 
     **Controller**: "QQE990, information W correct, cleared to Nice via the PATOM3N departure, climb via the SID altitude 5000ft, squawk 2613."
 
-    **Pilot**: "Cleared to Nice, PATOM3N departure, climb via the SID altitude 5000ft, squawk 2613."
+    **Pilot**: "Cleared to Nice, PATOM3N departure, climb via the SID altitude 5000ft, squawk 2613, QQE990."
 
     **Controller**: "QQE990, readback correct, QNH 1004, report ready for pushback."
 
@@ -83,7 +83,7 @@ A radar departure clearance shall contain the following information:
 - Initial climb;
 - Assigned SSR code
 
-Aircraft on a radar vectors departure shall have the text VCTRS inserted to the scratchpad section of their entry on the departure list and have an initial climb set to **2,000 feet**.
+Aircraft on a radar vectors departure shall have the text RDV inserted to the scratchpad section of their entry on the departure list and have an initial climb set to **2,000 feet**.
 
 All radar vectors departures shall be instructed to contact Doha Approach (West) once airborne.
 
@@ -92,7 +92,7 @@ All radar vectors departures shall be instructed to contact Doha Approach (West)
 
     **Controller**: "TCM1TM, information Z correct, cleared to Jeddah, fly runway heading, expect radar vectors after departure, maintain altitude 2000ft, squawk 2610."
 
-    **Pilot**: "Cleared to Jeddah, fly runway heading, expect radar vectors after departure, maintain altitude 2000ft, squawk 2610."
+    **Pilot**: "Cleared to Jeddah, fly runway heading, expect radar vectors after departure, maintain altitude 2000ft, squawk 2610, TCM1TM."
 
     **Controller**: "TCM1TM, readback correct, QNH 1014, report ready for pushback."
 
