@@ -7,5 +7,11 @@ Areas indicated in a cross-hatched colour are areas of shared responsibility. He
 Uncoloured areas are the responsibility of the respective GMC controller as indicated by the green boundary line between GMC 1 and GMC 2.
 
 ## 2.2 Runway 30L/30R
+<figure markdown>
+![Areas of Responsibility 30 config](img/OMDB AIR Split 30.png)
+</figure>
 
 ## 2.3 Runway 12L/12R
+<figure markdown>
+![Areas of Responsibility 12 config](img/OMDB AIR Split 12.png)
+</figure>

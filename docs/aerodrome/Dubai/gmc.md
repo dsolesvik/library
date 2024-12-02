@@ -137,6 +137,13 @@ In all applicable cases, when traffic turns to enter taxiway M, transfer to AIR 
 
 Departures from apron E shall be instructed to cross over to and taxi via N. 
 
+<figure markdown>
+![Taxi routings - 30 dual config](img/OMDB 30 TITO.png)
+</figure>
+<figure markdown>
+  <figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
+</figure>
+
 ### 4.3.3 Single runway 30R departure taxi procedures
 When departing 30R in the single runway configuration, all aircraft pushing back on apron A, B, D and F shall be instructed to taxi via K4, K7, or K11 and cross 30L as appropriate.
 
@@ -159,6 +166,14 @@ Aircraft parked on apron E and Q shall be taxied via the standard route to holdi
 Use of full-length holding points (K1, K2) shall require coordination with AIR and shall not be assigned unless requested for performance reasons. These aircraft shall be advised of possible delays due to runway dependency.
 
 Departing traffic shall not be issued taxi to holding points M
+
+<figure markdown>
+![Taxi routings - 12 dual config (arrival bias)](img/OMDB 12 TITO AB.png)
+</figure>
+
+<figure markdown>
+![Taxi routings - 12 dual config (departure bias)](img/OMDB 12 TITO DB.png)
+</figure>
 
 ### 4.3.7 Single runway 12R departure taxi procedures
 Departure taxi routes for 12R single runway operation shall be the same as in dual runway operations, except that aircraft may be assigned full length holding points without restriction.
@@ -224,6 +239,9 @@ After runway crossing, traffic shall be transferred to GMC 2 to taxi to the appr
 
 #### Apron F (except stand F26L)
 
+<figure markdown>
+![Taxi routings - 30 dual config](img/OMDB 30 TITO.png)
+</figure>
 
 ### 4.4.4 Single runway 30L arrival taxi procedures
 Routings are similar to 30L dual runway taxi, however caution should be exercised for traffic vacating onto J2, as this will cross the departure traffic taxiing eastbound on Z. Appropriate coordination shall be used to mitigate the risk of blocking the high speed exit.
@@ -235,7 +253,7 @@ Aircraft parking on the southern aprons shall vacate to the left and taxi via L3
 
 Aircraft parking on the northern aprons shall vacate right and take the first appropriate turn onto P.
 
-### 4.4.6 Dual runway 12L arrival taxi procedures
+### 4.4.6 Dual runway 12L arrival taxi procedures (Arrival Bias)
 Aircraft parking on the southern aprons shall vacate 12L onto M9 or M12A and be instructed by AIR to taxi via M to holding points M13B or M14B as appropriate.
 
 Once aircraft have crossed 12R, aircraft will be transferred from AIR to GMC.
@@ -247,6 +265,14 @@ Aircraft parking on the northern aprons shall vacate 12L onto N6 or N8 and then 
 In addition to the standard taxi routings outlined above, a ”bias” mode can be utilised for biasing arrival traffic flow in the Dual runway 12L arrival configuration.
 
 In the arrival bias, arriving traffic may vacate 12L to taxi westbound on M and then southbound on L3 and L4 to enter the C apron. Departing traffic will not interfere with the arrivals as they are prohibited from using any of the runway holding points along taxiway M.
+
+<figure markdown>
+![Taxi routings - 12 dual config (arrival bias)](img/OMDB 12 TITO AB.png)
+</figure>
+
+<figure markdown>
+![Taxi routings - 12 dual config (departure bias)](img/OMDB 12 TITO DB.png)
+</figure>
 
 ### 4.4.7 Single runway 12L arrival taxi procedure
 Arrival taxi routes during 12L single runway operation shall be the same as 12 dual runway operations.
@@ -304,7 +330,7 @@ GMC 2 controls aircraft movements on the following areas and their associated ta
 - Apron S
 - Apron Q
 
-(See 6.1)
+(See Section 2)
 
 ### 4.6.2 Handoff procedures
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement.

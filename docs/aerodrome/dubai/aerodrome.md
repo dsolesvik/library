@@ -16,10 +16,10 @@
 | Dubai Delivery              | OMDB_DEL         | GMP            | 120.350     |
 | Dubai Ground (South)        | OMDB_1_GND       | GMC 1          | 118.350     |
 | Dubai Ground (North)        | OMDB_2_GND       | GMC 2          | 121.650     |
-| Dubai Tower (North)         | OMDB_1_TWR       | AIR 1          | 118.750     |
-| Dubai Tower (South)         | OMDB_2_TWR       | AIR 2          | 119.550     |
-| Dubai Departures (South)    | OMDB_1_DEP       | DEP 1          | 121.025     |
-| Dubai Departures (North)    | OMDB_2_DEP       | DEP 2          | 124.675     |
+| Dubai Tower (North)         | OMDB_1_TWR       | AIR 1 (North)  | 118.750     |
+| Dubai Tower (South)         | OMDB_2_TWR       | AIR 2 (South)  | 119.550     |
+| Dubai Departures (South)    | OMDB_1_DEP       | DEP 1 (North)  | 121.025     |
+| Dubai Departures (North)    | OMDB_2_DEP       | DEP 2 (South)  | 124.675     |
 | Dubai Arrivals              | OMDB_APP         | APP            | 124.900     |
 | Dubai Director              | OMDB_F_APP       | FIN            | 127.900     |
 | Dubai Tower (Information)   | OMDB_I_TWR       | FIS            | 126.775     |
