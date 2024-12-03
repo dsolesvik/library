@@ -8,16 +8,32 @@ Pink indicates areas not available in some sceneries and shall not be used unles
 
 Taxiways with a red background are not code F (A380/B747-8) compatible.
 
-## 6.2 Runway 30 configuration
-### 6.2.1 Dual Runway 30L/30R
+## 6.2 Runway 16L
+### 6.2.1 Departure
 
-### 6.2.2 Single Runway 30L
 
-### 6.2.3 Single Runway 30R
+### 6.2.2 Arrivals
 
-## 6.3 Runway 12 configuration
-### 6.3.1 Dual Runway 12L/12R (Departure Bias and Arrival Bias)
 
-### 6.3.2 Single Runway 12L
+## 6.3 Runway 16R
+### 6.3.1 Departure
 
-### 6.3.3 Single Runway 12R
+
+### 6.3.2 Arrivals
+
+
+## 6.4 Runway 34L
+### 6.4.1 Departure
+<figure markdown>
+![34L Departure Diagram](img/34l_dep.png)
+</figure>
+
+### 6.4.2 Arrivals
+
+
+## 6.5 Runway 34R
+### 6.5.1 Departure
+
+
+### 6.5.2 Arrivals
+

@@ -163,10 +163,14 @@ Aircraft that have pushed back onto taxiway W shall taxi to holding point L or L
 
 Aircraft that have pushed back onto taxiway J shall taxi to holding points L2, L1, or L.
 
+Aircraft that have pushed back onto taxiway H shall taxi to J or K and proceed holding points L2, L1, or L.
+
 Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi to J or K and proceed to holding points L2, L1, or L.
 
 #### 3.3.2.2 Concourse B, C (East), E, and Remote Transfer G
 Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join C, S, and K and proceed to holding points L2, L1, or L.
+
+Aircraft that have pushed back onto taxiway D shall taxi to join C, S, and K and proceed to holding points L2, L1, or L.
 
 Aircraft that have pushed back onto taxiway C shall taxi to join S, K, and proceed to holding points L2, L1, or L.
 
@@ -190,9 +194,9 @@ Aircraft that have pushed back onto taxiway K shall taxi to join holding point L
 Aircraft that have pushed back onto taxiway Y shall taxi to join K and continue to holding point L2, L1, or L.
 
 #### 3.3.2.8 Apron 6
-Aircraft that have pushed back onto taxiway S2 shall taxi to join S3, P, and continue to holding point M1, M2, or M3.
+Aircraft that have pushed back onto taxiway S2 shall taxi to join S3, P, M, and continue to holding point M1, M2, or M3.
 
-Aircraft that have pushed back onto taxiway S4 shall taxi to join P and continue to holding point M1, M2, or M3.
+Aircraft that have pushed back onto taxiway S4 shall taxi to join P, M, and continue to holding point M1, M2, or M3.
 
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures
