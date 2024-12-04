@@ -157,63 +157,118 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 
     **Pilot**: "Taxi via W2, hold short J, QTR98K."
 
-### 3.3.2 Runway 34L departure taxi procedures
-#### 3.3.2.1 Concourse A, C (West), D, and Remote Transfer H.
-Aircraft that have pushed back onto taxiway W shall taxi to holding point L or L1.
+### 3.3.2 Runway 16L departure taxi procedures
 
-Aircraft that have pushed back onto taxiway J shall taxi to holding points L2, L1, or L.
+### 3.3.3 Runway 16R departure taxi procedures
 
-Aircraft that have pushed back onto taxiway H shall taxi to J or K and proceed holding points L2, L1, or L.
+### 3.3.4 Runway 34L departure taxi procedures
+#### 3.3.4.1 Concourse A, C (West), D, and Remote Transfer H.
+Aircraft that have pushed back onto taxiway W shall taxi via L or L1.
 
-Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi to J or K and proceed to holding points L2, L1, or L.
+Aircraft that have pushed back onto taxiway J shall taxi via L2, L1, or L.
 
-#### 3.3.2.2 Concourse B, C (East), E, and Remote Transfer G
+Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi via J or K and continue to holding points L2, L1, or L.
+
+#### 3.3.4.2 Concourse B, C (East), E, and Remote Transfer G
 Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join C, S, and K and proceed to holding points L2, L1, or L.
 
 Aircraft that have pushed back onto taxiway D shall taxi to join C, S, and K and proceed to holding points L2, L1, or L.
 
 Aircraft that have pushed back onto taxiway C shall taxi to join S, K, and proceed to holding points L2, L1, or L.
 
-#### 3.3.2.3 Central Concourse
+#### 3.3.4.3 Central Concourse
 Aircraft that have pushed back onto taxiway N shall taxi to join S, K, and continue to holding points L2, L1, or L.
 
-#### 3.3.2.4 Apron Cargo
+#### 3.3.4.4 Apron Cargo
 Aircraft that have pushed back onto taxiway F shall taxi to join C, S, K, and continue to holding point L2, L1, or L.
 
-#### 3.3.2.5 Apron V
+#### 3.3.4.5 Apron V
 Aircraft that have pushed back onto taxiway V shall taxi to join C, S, K, and continue to holding point L2, L1, or L.
 
 Aircraft that have pushed back onto taxiway C shall taxi to join S, K, and continue to holding point L2, L1, or L.
 
-#### 3.3.2.6 Apron 4
+#### 3.3.4.6 Apron 4
 Aircraft that have pushed back onto taxiway Q shall taxi to join F, C, S, K, and continue to holding point L2, L1, or L.
 
-#### 3.3.2.7 Apron 5
+#### 3.3.4.7 Apron 5
 Aircraft that have pushed back onto taxiway K shall taxi to join holding point L2, L1, or L.
 
 Aircraft that have pushed back onto taxiway Y shall taxi to join K and continue to holding point L2, L1, or L.
 
-#### 3.3.2.8 Apron 6
+#### 3.3.4.8 Apron 6
 Aircraft that have pushed back onto taxiway S2 shall taxi to join S3, P, M, and continue to holding point M1, M2, or M3.
 
 Aircraft that have pushed back onto taxiway S4 shall taxi to join P, M, and continue to holding point M1, M2, or M3.
 
+### 3.3.5 Runway 34R departure taxi procedures
+#### 3.3.5.1 Concourse A, C (West), D, and Remote Transfer H.
+Aircraft that have pushed back onto taxiway W shall taxi via H, then proceed through either W1 or W2, and continue on J, R, and B to reach holding points A2, A1, or A.
+
+Aircraft that have pushed back onto taxiway J shall taxi via R and B to reach holding points A2, A1, or A.
+
+Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi via J, R, and B to reach holding points A2, A1, or A.
+
+#### 3.3.5.2 Concourse B, C (East), E, and Remote Transfer G
+Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join B to reach holding points A2, A1, or A.
+
+Aircraft that have pushed back onto taxiway D shall taxi to join B to reach holding points A2, A1, or A.
+
+Aircraft that have pushed back onto taxiway C shall taxi to Join B to reach holding points A2, A1, or A.
+
+#### 3.3.5.3 Central Concourse
+Aircraft that have pushed back onto taxiway N shall taxi to join R, B, and continue to reach holding points A2, A1, or A.
+
+#### 3.3.5.4 Apron Cargo
+Aircraft that have pushed back onto taxiway F shall taxi to join B to reach holding points A2, A1, or A.
+
+#### 3.3.5.5 Apron V
+Aircraft that have pushed back onto taxiway V shall taxi to join C to reach holding points A2, A1, or A.
+
+Aircraft that have pushed back onto taxiway C shall taxi to reach holding points A2, A1, or A.
+
+#### 3.3.5.6 Apron 4
+Aircraft that have pushed back onto taxiway Q shall taxi to join B to reach holding points A2, A1, or A.
+
+#### 3.3.5.7 Apron 5
+Aircraft that have pushed back onto taxiway K shall taxi to join R and B to reach holding points A2, A1, or A.
+
+Aircraft that have pushed back onto taxiway Y shall taxi to join K, R, and B to reach holding points A2, A1, or A.
+
+#### 3.3.5.8 Apron 6
+Aircraft that have pushed back onto taxiway S2 and/or S4 shall taxi to join R1, cross runway 34L, and join R and B to reach holding points A2, A1, or A.
+
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures
 
-### 3.4.2 Dual runway 30L arrival taxi procedures
+### 3.4.2 Runway 16L arrival taxi procedures
 
-### 3.4.3 Dual runway 30R arrival taxi procedures
+### 3.4.3 Runway 16R arrival taxi procedures
 
-### 3.4.4 Single runway 30L arrival taxi procedures
+### 3.4.4 Runway 34L arrival taxi procedures
+#### 3.4.4.1 Concourse A, C (West), D, and Remote Transfer H
 
-### 3.4.5 Single runway 30R arrival taxi procedures
 
-### 3.4.6 Dual runway 12L arrival taxi procedures
+#### 3.4.4.2 Concourse B, C (East), E, and Remote Transfer G
 
-### 3.4.7 Single runway 12L arrival taxi procedure
 
-### 3.4.8 Single runway 12R arrival taxi procedure
+#### 3.4.4.3 Central Concourse
+
+
+#### 3.3.4.4 Apron Cargo
+
+
+#### 3.3.4.5 Apron V
+
+
+#### 3.3.4.6 Apron 4
+
+
+#### 3.3.4.7 Apron 5
+
+
+#### 3.3.4.8 Apron 6
+
+### 3.4.5 Runway 34R arrival taxi procedures
 
 ### 3.4.9 Stand allocation procedure
 |       Area       |        Stand Allocation       |                                                      Operator                                                     |
