@@ -169,6 +169,9 @@ Aircraft that have pushed back onto taxiway J shall taxi via L2, L1, or L.
 
 Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi via J or K and continue to holding points L2, L1, or L.
 
+!!! warning
+    Extreme caution shall be exercised when directing aircraft onto taxiway J, as aircraft taxiing to runway 34R will proceed northbound on J to join R!
+
 #### 3.3.4.2 Concourse B, C (East), E, and Remote Transfer G
 Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join C, S, and K and proceed to holding points L2, L1, or L.
 
@@ -209,11 +212,14 @@ Aircraft that have pushed back onto taxiway J shall taxi via R and B to reach ho
 Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi via J, R, and B to reach holding points A2, A1, or A.
 
 #### 3.3.5.2 Concourse B, C (East), E, and Remote Transfer G
-Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join B to reach holding points A2, A1, or A.
+Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join either B or C to reach holding points A2, A1, or A.
 
 Aircraft that have pushed back onto taxiway D shall taxi to join B to reach holding points A2, A1, or A.
 
 Aircraft that have pushed back onto taxiway C shall taxi to Join B to reach holding points A2, A1, or A.
+
+!!! warning
+    Extreme caution shall be exercised when directing aircraft onto taxiway C, as aircraft taxiing to runway 34L will proceed northbound on C to join S!
 
 #### 3.3.5.3 Central Concourse
 Aircraft that have pushed back onto taxiway N shall taxi to join R, B, and continue to reach holding points A2, A1, or A.
