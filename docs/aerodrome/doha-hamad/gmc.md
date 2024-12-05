@@ -158,6 +158,43 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
     **Pilot**: "Taxi via W2, hold short J, QTR98K."
 
 ### 3.3.2 Runway 16L departure taxi procedures
+#### 3.3.2.1 Concourse A, C (West), D, and Remote Transfer H.
+Aircraft that have pushed back onto taxiway W shall taxi via either H or W to join J, R, and B to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiway J shall taxi via R and B to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiways W1, W2, W3, or W4 shall taxi via J, R, and B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.2 Concourse B, C (East), E, and Remote Transfer G
+Aircraft that have pushed back onto taxiways E, E1, E2, E3, or E4 shall taxi to join B to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiway D shall taxi to join E1 and B to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiway C shall taxi to join B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.3 Central Concourse
+Aircraft that have pushed back onto taxiway N shall taxi to join R and B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.4 Apron Cargo
+Aircraft that have pushed back onto taxiway F shall taxi to join B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.5 Apron V
+Aircraft that have pushed back onto taxiway V shall taxi to join B to to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiway C shall taxi to join B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.6 Apron 4
+Aircraft that have pushed back onto taxiway Q shall taxi to join C or B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.7 Apron 5
+Aircraft that have pushed back onto taxiway K shall taxi to join R and B to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiway Y shall taxi to join K, R, and B to reach holding points A10, A11, or A12.
+
+#### 3.3.2.8 Apron 6
+Aircraft that have pushed back onto taxiway S2 shall taxi to join R1, R, and B to reach holding points A10, A11, or A12.
+
+Aircraft that have pushed back onto taxiway S3 shall taxi to join R1, R, and B to reach holding points A10, A11, or A12.
 
 ### 3.3.3 Runway 16R departure taxi procedures
 
@@ -191,7 +228,7 @@ Aircraft that have pushed back onto taxiway V shall taxi to join C, S, K, and co
 Aircraft that have pushed back onto taxiway C shall taxi to join S, K, and continue to holding point L2, L1, or L.
 
 #### 3.3.4.6 Apron 4
-Aircraft that have pushed back onto taxiway Q shall taxi to join F, C, S, K, and continue to holding point L2, L1, or L.
+Aircraft that have pushed back onto taxiway C or Q shall taxi to join F, C, S, K, and continue to holding point L2, L1, or L.
 
 #### 3.3.4.7 Apron 5
 Aircraft that have pushed back onto taxiway K shall taxi to join holding point L2, L1, or L.
@@ -233,6 +270,8 @@ Aircraft that have pushed back onto taxiway V shall taxi to join C to reach hold
 Aircraft that have pushed back onto taxiway C shall taxi to reach holding points A2, A1, or A.
 
 #### 3.3.5.6 Apron 4
+Aircraft that have pushed back onto taxiway C shall taxi to join B to reach holding points A2, A1, or A.
+
 Aircraft that have pushed back onto taxiway Q shall taxi to join B to reach holding points A2, A1, or A.
 
 #### 3.3.5.7 Apron 5
