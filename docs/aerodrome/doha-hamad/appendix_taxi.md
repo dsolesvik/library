@@ -8,14 +8,18 @@ Taxiways with a red background are not code F (A380/B747-8) compatible.
 
 ## 6.2 Runway 16L
 ### 6.2.1 Departure
-
+<figure markdown>
+![16L Departure Diagram](img/16l_dep.png)
+</figure>
 
 ### 6.2.2 Arrivals
 
 
 ## 6.3 Runway 16R
 ### 6.3.1 Departure
-
+<figure markdown>
+![16R Departure Diagram](img/16r_dep.png)
+</figure>
 
 ### 6.3.2 Arrivals
 
