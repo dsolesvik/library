@@ -1,59 +1,66 @@
+# Project Information
 site_name: Arabian vACC - Library
+site_description: Access essential tools and information for pilots and controllers in the Arabian vACC. From charts and procedures to training and sector files, everything you need for a seamless and realistic experience on the VATSIM network is here.
 site_url: https://library.arabian-vacc.com
 repo_url: https://github.com/arabian-vacc/library
 repo_name: arabian-vacc/library
 edit_uri: ""
 copyright: ""
 
+# Project Configuration
 theme:
   name: material
   custom_dir: overrides
+  logo: assets/images/logo.png
   font:
     text: Mulish
-    code: Red Hat Mono
-  logo: assets/logo.png
-  favicon: assets/favicon.ico
-  features:
-    - navigation.tabs
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: orange
-      accent: deep purple
-
-    # Light Mode
     - scheme: default
       toggle:
+        icon: material/weather-sunny
+        name: Go to the dark side..
+    - scheme: slate
+      toggle:
         icon: material/weather-night
-        name: Light mode
-      primary: orange
-      accent: deep orange
+        name: Shine some light on this!
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+  favicon: assets/images/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
 
-markdown_extensions:
-  - meta
-  - admonition
-  - pymdownx.superfences
-  - attr_list
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.details
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.keys
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - md_in_html
-  - abbr
-  - pymdownx.snippets
+# Project Plugins
+plugins:
+  - search:
+      lang: en
+  - awesome-pages: {}
+  - git-revision-date-localized:
+      type: date
+  -   external-markdown: {}
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false
 
+# Project Styling
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/admonitions.css
+  - stylesheets/navigation.css
+
+# Project Extra / Social Links
 extra:
   social:
     - icon: fontawesome/brands/twitch
@@ -69,18 +76,29 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/arabian-vacc
 
-plugins:
-    - search
-    - awesome-pages:
-        strict: false
-        order: asc
-        sort_type: natural
-        order_by: title
+# Additional Markdown Extensions to use bundled icon sets
+markdown_extensions:
+  - meta: {} # Add front matter to a document
+  - admonition: {} # Makes things pretty
+  - pymdownx.superfences: {} # Nestled code
+  - attr_list: {} # Add HTML attributes and CSS classes to Markdown elements
+  - pymdownx.tabbed: # Content tabs
+      alternate_style: true
+  - pymdownx.details: {} # Additional features to admonition
+  - pymdownx.caret: {} # Formatting Extension
+  - pymdownx.critic: {} # Alternate Formatting Extension
+  - pymdownx.mark: {} # Formatting Extension
+  - pymdownx.tilde: {} # Formatting Extension
+  - pymdownx.keys: {} # Visual keyboard keys extension
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji: # Allows emoji style inline embeds for icons
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html: {} #enables the use of image figures
+  - abbr: {}
+  - pymdownx.snippets: {}
 
-extra_css:
-  - stylesheets/extra.css
-
+# Project Javascript
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
-
-copyright: The content provided by the Arabian vACC on this website is for Flight Simulation purposes only and should not be used for real-world navigation.
