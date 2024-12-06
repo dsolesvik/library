@@ -17,3 +17,6 @@
 | **Standard instrument departure (SID)**           | A designated instrument flight rule (IFR) departure route linking the aerodrome, or a specific runway on the aerodrome with a significant point, normally on a designated ATS route, at which the en-route phase of flight commences.                                                              |
 
 ## 1.2 Role of air traffic services
+Air traffic services (ATS) primarily exist to expedite and maintain a safe and orderly flow of traffic. ATS ensures that collisions are prevented between aircraft, and between aircraft and other objects on the aerodrome surface.
+
+ATS comprises of several services including flight information service, alerting service (for search and rescue), air traffic advisory service, and air traffic control service. Air traffic control service includes area control service, controlling larger sectors of airspace when aircraft are en route, approach control service which is responsible for separating and sequencing aircraft in the terminal area, and aerodrome control service which manages aircraft on or in the vicinity of an aerodrome.

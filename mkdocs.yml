@@ -37,6 +37,8 @@ theme:
   favicon: assets/images/favicon.ico
   icon:
     repo: fontawesome/brands/github
+    admonition:
+      example: fontawesome/solid/headset
 
 # Project Plugins
 plugins:
@@ -45,7 +47,8 @@ plugins:
   - awesome-pages: {}
   - git-revision-date-localized:
       type: date
-  -   external-markdown: {}
+      strict: false
+  - external-markdown: {}
   - glightbox:
       touchNavigation: true
       effect: zoom
