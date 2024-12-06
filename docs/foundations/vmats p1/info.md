@@ -1,26 +1,29 @@
 # Document Information
 ## Document Control Details
-|                     |                                                   |
-|---------------------|---------------------------------------------------|
-|         Type        |                    Procedure                      |
-|       Revision      |                     XX/XXX                        |
-|    Effective Date   |                    XX XXX XXXX                    |
-|     Prepared by     |                                                   |
-|     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    XX XXX XXXX                    |
-| Cancelled documents |                SOP XXXX R0X/XXXX                  |
+|                     |                                                       |
+|:-------------------:|:-----------------------------------------------------:|
+|         Type        |                      Foundations                      |
+|       Revision      |                        01/2025                        |
+|    Effective Date   |                      01 JAN 2025                      |
+|     Prepared By     | Chriss Klosowski - ACCARB2<br>Suprojit Paul - ACCARB3 |
+|     Approved by     |                Chris Marriott - ACCARB1               |
+|   Next review date  |                      01 JAN 2026                      |
+| Cancelled documents |                UAE MATS P1 R01-2021.pdf               |
 
 ## Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>XX/XXXX</td>
-    <td>Initial issue</td>
-    <td>XX XXX XXX</td>
-  </tr>
-</tbody></table>
+| Revision Number |                                   Notes                                  | Effective Date |
+|:---------------:|--------------------------------------------------------------------------|:--------------:|
+|     01/2020     | Initial Issue                                                            |   23 APR 2020  |
+|     02/2020     | Added new definitions,<br>Corrected enroute holding guidance             |   21 MAY 2020  |
+|     03/2020     | Copyright note,<br>Minor edits                                           |   18 JUN 2020  |
+|     04/2020     | Corrected departure & arrival procedures                                 |   16 JUL 2020  |
+|     05/2020     | Added ATS surveillance vertical separation procedures,<br>Revised format |   08 OCT 2020  |
+|     01/2021     | New layout                                                               |   25 FEB 2021  |
+|     01/2025     | Material moved from .pdf to the Arabian vACC - Library                   |   01 JAN 2025  |
+
+## Scope
+This document is a generalised manual for the provision of air traffic control services within the Arabian vACC airspace. It contains the techniques, procedures and essential information required to provide effective air traffic control service. Some procedures have been modified slightly from their real-world counterparts so that they are compatible with the expected skill level of pilots on the VATSIM network.
+
+For aerodrome-specific procedures, controllers should refer to the respective SOP documents, as certain aerodromes may apply different procedures to those described in this document. 
+
+In addition, this document is adapted for the procedures specific to the Arabian vACC and should not be considered a comprehensive guide to air traffic control. Further information can be obtained from the appropriate ICAO documentation and the respective countries Civil Aviation Rules.
