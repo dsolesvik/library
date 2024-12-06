@@ -2,6 +2,7 @@ title: Manual of Air Traffic Services (MATS) - Part 1
 sort_type: natural
 nav:
     - info.md
+    - intro.md
     - general.md
     - separation.md
     - separation_aerodrome.md
