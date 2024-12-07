@@ -1,4 +1,11 @@
-title: Manual of Air Traffic Services Part 2
+title: Manual of Air Traffic Services - Part 2
 sort_type: natural
 nav:
     - info.md
+    - horizontal.md
+    - vectoring.md
+    - level_change.md
+    - vertical.md
+    - holding.md
+    - terminal.md
+    - aerodrome.md
