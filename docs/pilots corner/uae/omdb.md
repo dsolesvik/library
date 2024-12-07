@@ -165,9 +165,9 @@ Diagram soon™
 #### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
 
-* 12R - K3/K4/K5
+* 12R - K5
 * 12L - M1C/N1C
-* 30R - M13A/M14A
+* 30R - M13/N8A
 * 30L - K15A/M18A
 
 Crews should base their performance calculations on departure from standard departure points from the notified runway in use if there is no restriction to payload.
