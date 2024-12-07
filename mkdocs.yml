@@ -44,7 +44,11 @@ theme:
 plugins:
   - search:
       lang: en
-  - awesome-pages: {}
+  - awesome-pages:
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title
   - git-revision-date-localized:
       type: date
       strict: false
