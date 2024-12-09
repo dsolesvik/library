@@ -26,6 +26,8 @@ Clearances from clearance delivery controllers should include:
 - Assigned squawk code
 
 ### 3.1.2 Squawk code assignment
+Controllers shall actively listen to and insist upon a correct read back to ascertain that the clearance or instruction has been correctly acknowledged and shall take immediate action to correct any discrepancies revealed by the read back or lack thereof. 
+
 #### 3.1.2.1 General (Single Runway)
 !!! example
     **Controller**: "EMIRATES 587, CLEARED TO AMSTERDAM VIA SENPA2F, MAINTAIN ALTITUDE 4000 FEET, SQUAWK 0534."
@@ -66,7 +68,7 @@ Clearances from clearance delivery controllers should include:
 
     **Pilot**: "INFORMATION X-RAY, QNH 1015, WILCO, QATARI 35B."
 
-Controllers shall actively listen to and insist upon a correct read back to ascertain that the clearance or instruction has been correctly acknowledged and shall take immediate action to correct any discrepancies revealed by the read back or lack thereof. 
+It is important to note that the runway is not specified in the clearance at Doha. This is due to the SIDs being runway dependent. 
 
 ### 3.1.3 Correct readback
 If the aircrafts readback was correct, the clearance delivery controller should acknowledge this with the phrase “READBACK CORRECT” and proceed to pass across details of active ATIS letter along with local QNH.
@@ -479,3 +481,405 @@ Sometimes it is necessary to cross aircraft across a runway the instruction shou
     **Controller**: "EMIRATES 642, AT K11, CROSS RUNWAY 30L, HOLD SHORT RUNWAY 30R."
 
     **Pilot**: “AT K11, CROSS RUNWAY 30L, HOLD SHORT RUNWAY 30R, EMIRATES 642."
+
+## 3.4 Approach and departure control
+### 3.4.1 Radar identification
+Vectors may be given to establish the identification of an aircraft. Other means of ATS surveillance service identification are the use of position report information, requesting the aircraft to make turns, the use of bearing and distance information from a prominent object or radio aid, transfer of control and the use of SSR.
+
+!!! example
+    **Controller**: "OMAN AIR 642, FOR IDENTIFICATION TURN LEFT 080."
+
+    **Pilot**: “FOR IDENTIFICATION TURN LEFT 080, OMAN AIR 642."
+
+The pilot should be warned if identification is lost, or about to be lost, and appropriate instructions given.
+
+!!! example
+    **Controller**: "OMAN AIR 642, IDENTIFICATION LOST DUE RADAR FAILURE, CONTACT U.A.E RADAR 124.85."
+
+    **Pilot**: “ROGER, CONTACT U.A.E RADAR 124.85, OMAN AIR 642"
+
+    **Controller**: "OMAN AIR 642, WILL SHORTLY LOSE IDENTIFICATION TEMPORARILY, DUE FADE AREA, REMAIN THIS FREQUENCY."
+
+    **Pilot**: “WILCO,  OMAN AIR 642"
+
+### 3.4.2 Radar vectoring
+Radar vectors can be used to ensure lateral separation as well as being used to position an aircraft for its final approach course. Aircraft should be informed of the reason for the vectors unless it is self-evident.
+
+!!! example
+    **Controller**: "EMIRATES 4CK, TURN LEFT HEADING 050 FOR TRAFFIC."
+
+    **Pilot**: "TURN LEFT HEADING 050, EMIRATES 4CK."
+
+    **Controller**: "EMIRATES 4CK, TURN RIGHT HEADING 210, BASE LEG."
+
+    **Pilot**: "TURN LEFT HEADING 210, BASE LEG, EMIRATES 4CK."
+
+    **Controller**: "EMIRATES 4CK, MAINTAIN PRESENT HEADING."
+
+    **Pilot**: "PRESENT HEADING, EMIRATES 4CK."
+
+    **Controller**: "EMIRATES 4CK, TURN LEFT BY 10 DEGREES, REPORT NEW HEADING."
+
+    **Pilot**: "LEFT BY 10 DEGREES, NEW HEADING 350 DEGREES, EMIRATES 4CK."
+
+    **Controller**: "EMIRATES 4CK, REPORT YOUR HEADING."
+
+    **Pilot**: "HEADING 050 DEGREES, EMIRATES 4CK."
+
+When vectoring is completed, pilots will be instructed to resume their own navigation and given position information and appropriate instructions as necessary.
+
+!!! example
+    **Controller**: "EMIRATES 4CK, RESUME OWN NAVIGATION, DIRECT SENPA."
+
+    **Pilot**: "RESUME OWN NAVIGATION, DIRECT SENPA, EMIRATES 4CK."
+
+Occasionally aircraft may be instructed to make a complete turn through 360 degrees for delaying purposes or to achieve a required spacing behind preceding traffic.
+
+!!! example
+    **Controller**: "EMIRATES 4CK, ORBIT LEFT FOR SPACING."
+
+    **Pilot**: "ORBIT LEFT FOR SPACING, EMIRATES 4CK."
+
+### 3.4.3 Traffic information and avoiding action
+Information regarding traffic on a conflicting path should be given in the following form: 
+
+- Relative bearing of the conflicting traffic in terms of the 12-hour clock 
+- Distance from the conflicting traffic 
+- Direction of the flight of the conflicting traffic 
+- Any other pertinent information such as: unknown, slow moving, fast moving, closing, opposite (or same) direction, overtaking, crossing left to right (or right to left), and if known, aircraft type and level, climbing or descending. 
+
+Avoiding action to be taken by the pilot is given when the controller considers that an imminent risk of collision will exist if action is not taken immediately.
+
+!!! example
+    **Controller**: "EMIRATES 9901, UNKNOWN TRAFFIC 10 O'CLOCK, 11 MILES, FAST MOVING CROSSING RIGHT TO LEFT."
+
+    **Pilot**: "NEGATIVE CONTACT, REQUEST VECTORS, EMIRATES 9901."
+
+    **Controller**: "EMIRATES 9901, TURN LEFT HEAIDNG 050 DEGREES."
+
+    **Pilot**: "TURN LEFT HEADING 050, EMIRATES 9901."
+
+    **Controller**: "EMIRATES 9901, CLEAR OF TRAFFIC, RESUME OWN NAVIGATION, DIRECT TO IVURO."
+
+    **Pilot**: "RESUME OWN NAVIGATION, DIRECT TO IVURO, EMIRATES 9901."
+
+### 3.4.4 Tradar vectors to final approach
+Radar vectors are given to arriving flights to position them onto a pilot-interpreted final approach aid, or to a point from which a visual approach can be made. In the following example an identified aircraft is given radar vectors to the ILS.
+
+!!! example
+    **Pilot**: "DUBAI ARRIVALS, EMIRATES 202, VUTEB3D ARRIVAL, PASSING FL150, DESCENDING TO 10,000 FEET, INFORMATION CHARLIE, QNH 1014."
+    
+    **Controller**: "EMIRATES 202, DUBAI ARRIVALS, IDENTIFIED, DESCEND TO ALTITUDE 8,000 FEET, EXPECT VECTORING FOR ILS APPROACH RUNWAY 30L, NO DELAY."
+
+    **Pilot**: "DESCEND TO 8,000 FEET, RUNWAY 30L, EMIRATES 202."
+
+    **Controller**: "EMIRATES 202, LEAVE PATID HEADING 210."
+
+    **Pilot**: "LEAVING PATID HEADING 210, EMIRATES 202."
+
+    **Controller**: "EMIRATES 202, REDUCE SPEED TO 210 KNOTS (MINIMUM CLEAN SPEED, NO ATC SPEED RESTRICTIONS, ETC...)."
+
+    **Pilot**: "REDUCE SPEED 210 KNOTS, EMIRATES 202 (OR APPROPRIATE RESPONSE)."
+
+    **Controller**: "EMIRATES 202, DESCEND TO ALTITUDE 4,000 FEET, NUMBER FOUR IN TRAFFIC."
+
+    **Pilot**: "LEAVING 7,000 FEET DESCENDING TO 4,000 FEET, EMIRATES 202."
+
+    **Controller**: "EMIRATES 202, 25 TRACK MILES FROM TOUCH DOWN."
+
+    **Pilot**: "EMIRATES 202."
+
+    **Controller**: "EMIRATES 202, TURN RIGHT HEADING 210 DEGREES, BASE LEG, REDUCE SPEED TO 180 KNOTS."
+
+    **Pilot**: "HEADING 210 DEGREES, REDUCING SPEED TO 180, EMIRATES 202."
+
+    **Controller**: "EMIRATES 202, TURN RIGHT HEADING 270 DEGREES, CLEARED FOR ILS APPROACH, RUNWAY 30L, REPORT ESTABLISHED."
+
+    **Pilot**: "HEADING 270 DEGREES, CLEARED ILS RUNWAY 30L, WILCO, EMIRATES 202."
+
+    **Pilot**: "ESTABLISHED ILS RUNWAY 30L, EMIRATES 202."
+
+    **Controller**: "EMIRATES 202, CONTACT TOWER 119.550."
+
+    **Pilot**: "TOWER 119.550, EMIRATES 202."
+
+The radar controller should advise the aircraft of its position at least once prior to turning onto final approach.
+
+Pilots will be advised when a controller intends to vector an aircraft through the final approach track and of the reason for the track extension.
+
+!!! example
+    **Controller**: "QATARI 6H, CONTINUE PRESENT HEADING, TAKING YOU THROUGH THE LOCALIZER FOR SPACING."
+
+    **Pilot**: "CONTINUE PRESENT HEADING, ROGER, QATARI 6H."
+
+### 3.4.5 IFR departures
+Most airports both arrivals and departures are handled by a single control unit. At busier airports, departures and arrivals are handled by specific departure and arrival controllers.
+
+In addition to the ATC route clearance, further instructions for separation purposes may be issued prior to or after take-off.
+
+!!! example
+    **Pilot**: "ABU DHABI RADAR, KLM 426."
+    
+    **Controller**: "KLM 426, ABU DHABI RADAR, TURN RIGHT HEADING 040 UNTIL PASSING ALTITUDE 7,000 FEET, THEN DIRECT KANIP."
+
+    **Pilot**: "TURN RIGHT HEADING 040 UNTIL PASSING ALTITUDE 7,000 FEET, THEN DIRECT KANIP, KLM426."
+
+    **Controller**: "KLM 426, REPORT PASSING ALTITUDE 7,000 FEET."
+
+    **Pilot**: "REPORT PASING ALTITUDE 7,000 FEET, KLM426"
+
+    **Controller**: "KLM 426, CONTACT U.A.E RADAR 124.850."
+
+    **Pilot**: "CONTACT U.A.E RADAR 124.850, KLM426."
+
+### 3.4.6 IFR arrivals
+Approach control should advise, on initial contact, the type of approach to be expected (ILS, RNAV, Visual)
+
+!!! example
+    **Controller**: "ETIHAD 19D, EXPECT ILS APPROACH RUNWAY 31R AT ABU DHABI."
+
+    **Pilot**: "EXPECT ILS APPROACH RUNWAY 31R, ETIHAD 19D."
+
+On occasions IFR aircraft do not complete the ILS approach procedure but request permission to make a visual approach. When the specific requirements for a visual approach have been met the pilot may make the request using the phrase “REQUEST VISUAL APPROACH”. Controllers will grant the request when traffic permits. 
+
+When cleared by ATC for a visual approach further descent is unrestricted except when a specific restriction is included with the clearance for a visual approach or a specific restriction is included in a subsequent clearance.
+
+!!! example
+    **Controller**: "ETIHAD 19D, CLEARED VISUAL APPROACH, RUNWAY 31R."
+
+    **Pilot**: "CLEARED VISUAL APPROACH, RUNWAY 31R, ETIHAD 19D."
+
+### 3.4.7 Clearance via the SID
+Clearances to aircraft on a SID with remaining published level and/or speed restrictions shall indicate if such restrictions are to be followed or are cancelled. The following phraseologies shall be used with the following meanings: 
+
+`CLIMB VIA SID TO <Cleared level>`:
+
+- Climb to the cleared level and comply with published level restrictions 
+- Follow the lateral profile of the SID 
+- Comply with published speed restrictions or ATC-issued speed control instructions as applicable. 
+
+`CLIMB VIA SID TO <Cleared level>, CANCEL LEVEL RESTRICTION(S)`: 
+
+- Climb to the cleared level, published level restrictions are cancelled 
+- Follow the lateral profile of the SID 
+- Comply with published speed restrictions or ATC-issued speed control instructions as applicable. 
+
+`CLIMB VIA SID TO <Cleared level>, CANCEL LEVEL RESTRICTION(S) AT <point(s)>`: 
+
+- Climb to the cleared level, published level restriction(s) at the specified point(s) are cancelled 
+- Follow the lateral profile of the SID 
+- Comply with published speed restrictions or ATC-issued speed control instructions as applicable. 
+
+`CLIMB VIA SID TO <Cleared level>, CANCEL SPEED RESTRICTION(S)`:
+
+- Climb to the cleared level and comply with published level restrictions 
+- Follow the lateral profile of the SID 
+- Published speed restrictions and ATC-issued speed control instructions are cancelled. 
+
+`CLIMB UNRESTRICTED TO<Cleared level>`, OR `CLIMB TO <Cleared level>, CANCEL LEVEL AND SPEED RESTRICTION(S)`: 
+
+- Climb to the cleared level, published level restrictions are cancelled 
+- Follow the lateral profile of the SID 
+- Published speed restrictions and ATC-issued speed control instructions are cancelled. 
+
+If there are no remaining published level or speed restrictions on the SID, the phrase `CLIMB TO <Cleared level>` should be used. 
+
+When subsequent speed restriction instructions are issued, and if the cleared level is unchanged, the phrase `CLIMB VIA SID TO <Cleared level>` should be omitted. 
+
+When a departing aircraft is cleared to proceed direct to a published waypoint on the SID, the speed and level restrictions associated with the bypassed waypoints are cancelled. All remaining published speed and level restrictions shall remain applicable. 
+
+When a departing aircraft is vectored or cleared to proceed to a point that is not on the SID, all the published speed and level restrictions of the SID are cancelled, and the controller shall: 
+
+- Reiterate the cleared level 
+- Provide speed and level restrictions as necessary 
+- Notify the pilot if it is expected that the aircraft will be instructed to subsequently re-join the SID. 
+
+ATC instructions to an aircraft to re-join a SID shall include: 
+
+- The designator of the SID to be re-joined unless advance notification of re-join has been provided in accordance with above 
+- The cleared level on re-joining the SID in accordance with above 
+- The position at which it is expected to re-join the SID. 
+
+Phraseology on re-join instructions: 
+
+- `CLEARED DIRECT <waypoint>, CLIMB TO <Cleared level>, EXPECT TO REJOIN SID [<SID designator>] [AT <waypoint>]`
+
+Then 
+
+- `REJOIN SID [<SID designator>] [AT <waypoint>]`
+
+- `CLEARED DIRECT <waypoint>, CLIMB TO <Cleared level>`
+
+Then 
+
+- `REJOIN SID <SID designator> AT <waypoint>`
+
+### 3.4.7 Clearances via the STAR
+Clearances to aircraft on a STAR with remaining published level and/or speed restrictions shall indicate if such restrictions are to be followed or are cancelled. The following phraseologies shall be used with the following meaning: 
+
+`DESCEND VIA STAR TO <Cleared level>`:
+
+- Descend to the cleared level and comply with published level restrictions 
+- Follow the lateral profile of the STAR 
+- Comply with published speed restrictions or ATC-issued speed control instructions as applicable. 
+
+`DESCEND VIA STAR TO <Cleared level>, CANCEL LEVEL RESTRICTION(S)`:
+
+- Descend to the cleared level, published level restrictions are cancelled 
+- Follow the lateral profile of the STAR 
+- Comply with published speed restrictions or ATC-issued speed control instructions as applicable. 
+
+`DESCEND VIA STAR TO <Cleared level>, CANCEL LEVEL RESTRICTION(S) AT <point(s)>`:
+
+- Descend to the cleared level, published level restriction(s) at the specified point(s) are cancelled 
+- Follow the lateral profile of the STAR 
+- Comply with published speed restrictions or ATC-issued speed control instructions as applicable. 
+
+`DESCEND VIA STAR TO <Cleared level>, CANCEL SPEED RESTRICTION(S)`:
+
+- Descend to the cleared level and comply with published level restrictions
+- Follow the lateral profile of the STAR
+- Published speed restrictions and ATC-issued speed control instructions are cancelled.
+
+`DESCEND VIA STAR TO <Cleared level>, CANCEL SPEED RESTRICTION(S) AT <point(s)>`:
+
+- Descend to the cleared level and comply with published level restrictions
+- Follow the lateral profile of the STAR
+- Published speed restrictions are cancelled at the specified point(s). 
+
+`DESCEND UNRESTRICTED TO <Cleared level>` OR `DESCEND TO <Cleared level>, CANCEL LEVEL AND SPEED RESTRICTION(S)`:
+
+- Descend to the cleared level, published level restrictions are cancelled 
+- Follow the lateral profile of the STAR 
+
+Published speed restrictions and ATC-issued speed control instructions are cancelled. 
+
+If there are no remaining published level or speed restrictions on the STAR, the phrase `DESCEND TO <Cleared level>` should be used. 
+
+When subsequent speed restriction instructions are issued and if the cleared level is unchanged, the phrase `DESCEND VIA STAR TO <Cleared level>` should be omitted. 
+
+When an arriving aircraft is cleared to proceed direct to a published waypoint on the STAR, the speed and level restrictions associated with the bypassed waypoints are cancelled. All remaining published speed and level restrictions shall remain applicable. 
+
+When an arriving aircraft is vectored or cleared to proceed to a point that is not on the STAR, all the published speed and level restrictions of the STAR are cancelled, and the controller shall: 
+
+- Reiterate the cleared level 
+- Provide speed and level restrictions as necessary 
+- Notify the pilot if it is expected that the aircraft will be instructed to subsequently re-join the STAR. 
+
+ATC instructions to an aircraft to re-join a STAR shall include: 
+
+- The designator of the STAR to be re-joined, unless advance notification of re-join has been provided in accordance with above 
+- The cleared level on re-joining the STAR in accordance with above 
+- The position at which it is expected to re-join the STAR. 
+
+Phraseology on re-join instructions: 
+
+- `CLEARED DIRECT <waypoint>, DESCEND TO <Cleared level>, EXPECT TO REJOIN STAR [<STAR designator>] [AT <waypoint>]`
+
+Then 
+
+- `REJOIN STAR [<STAR designator>] [AT <waypoint>]`
+- `CLEARED DIRECT <waypoint>, DESCEND TO <Cleared level>`
+
+Then 
+
+- `REJOIN STAR <STAR designator> AT <waypoint>`
+
+## 3.5 Area Control
+Much of the phraseology used in area control is of a general nature and similar to that of approach and departure. However, many instructions used in area control (particularly where radar is not available) are related to specific conditions in order to maintain aircraft separation.
+
+### 3.5.1 Descent clearance
+To assist with establishing altitude restrictions, pilots may be assigned `AT OR ABOVE` or `AT OR BELOW` restrictions.
+
+!!! example
+    **Pilot**: "AIR INDIA 397, REQUEST DESCENT."
+    
+    **Controller**: "AIR INDIA 398, MAINTAIN FL360, EXPECT DESCENT AFTER PASOV."
+
+    **Pilot**: "MAINTAIN FL350, AIR INDIA 397."
+
+    **Controller**: "AIR INDIA 397, DESCEND TO FL150, CROSS PASOV FL180 OR ABOVE."
+
+    **Pilot**: "DESCEND TO FL150, CROSS PASOV FL170 OR ABOVE, AIR INDIA 397."
+
+### 3.5.2 Position Information
+In order to assist in establishing separation, pilots may be instructed to provide additional position report information as well as routing reports.
+
+!!! example
+    **Controller**: "SAUDIA 550, REPORT 25 MILES FROM THE DOHA VOR."
+
+    **Pilot**: "WILCO, SAUDIA 550."
+
+    **Controller**: "SAUDIA 550, REPORT DISTANCE FROM THE DOHA VOR."
+
+    **Pilot**: "DISTANCE 37 MILES FROM THE DOHA VOR, SAUDIA 550."
+
+### 3.5.3 Level information
+Level information consists of climb and descent clearances or instructions and reports of leaving, reaching, and passing levels as detailed in the level Instructions paragraphs in the general procedures and phraseology section. Unless advice is received to the contrary, the aircraft is expected to vacate the level as soon as practicable. Under exceptional circumstances, if instant descent is required, the word “immediately” is used.
+
+!!! example
+    **Controller**: "SAUDIA 550, WHEN READY DESCEND TO FL150."
+
+    **Pilot**: "WHEN READY DESCEND TO FL150, SAUDIA 550."
+
+    **Controller**: "SAUDIA 550, DESCEND TO FL200, IMMEDIATELY DUE TRAFFIC."
+
+    **Pilot**: "DESCENDING FL200, SAUDIA 550."
+
+An aircraft may request a clearance to climb or descend maintaining own separation while in VMC (available in class D airspace only). The clearance will include information on essential traffic.
+
+!!! example
+    **Pilot**: "EGYPTAIR 345, REQUEST MAINTAIN OWN SEPARATION IN VMC, DESCENT TO 6,000 FEET."
+
+    **Controller**: "EGYPTAIR 345, DESCEND TO ALTITUDE 6,000 FEET, MAINTAIN OWN SEPARATION IN VMC FROM 9,000 FEET TO 7,000 FEET... TRAFFIC IS..."
+
+    **Pilot**: "LEAVING ... FOR ALTITUDE 6,000 FEET, MAINTAIN OWN SEPARATION IN VMC 9,000 FEET TO 7,000 FEET, TRAFFIC AT <ALTITUDE>, EGYPTAIR 345."
+
+### 3.5.4 Flights entering controlled airspace
+IFR or VFR aircraft requiring to enter controlled airspace should make their request to the appropriate ATS unit in sufficient time to allow ATC to assess the traffic situation and issue a clearance prior to the aircraft reaching controlled airspace.
+
+!!! example
+    **Pilot**: "U.A.E RADAR, PQR."
+
+    **Controller**: "PQR, U.A.E RADAR, PASS YOUR MESSAGE."
+
+    **Pilot**: "PQR, ESTIMATING DARAX 45, ALTITUDE 9,000 FEET, REQUEST CLEARANCE."
+
+    **Controller**: "PQR, CLEARED TO ABU DHABI, VIA M318, ALTITUDE 9,000 FEET, ENTER CONTROL AREA AT DARAX, SQUAWK 5472, QNH 1014."
+
+    **Pilot**: "CLEARED TO ABU DHABI, VIA M318, ALTITUDE 9,000 FEET, ENTER CONTROL AREA AT DARAX, SQUAWK 5472, QNH 1014, PQR."
+
+    **Controller**: "PQR, READBACK CORRECT."
+
+It may be that because of the prevailing traffic situation a clearance cannot be issued immediately. A transponder (squawk) code may be issued to assist ATC in assessing the traffic situation. This does not constitute a clearance to enter controlled airspace.
+
+!!! example
+    **Controller**: "PQR, REMAIN OUTSIDE CONTROLLED AIRSPACE, EXPECT CLEARANCE AT TIME 55."
+
+    **Pilot**: "REMAINING OUTSIDE CONTROLLED AIRSPACE, PQR."
+
+### 3.5.5 Flights leaving controlled airspace
+Flights leaving controlled airspace will normally be given a track or specific point by which to leave, together with any other relevant instructions necessary to ensure separation.
+
+!!! example
+    **Pilot**: "A6-CTL, NIBAX 17, 6,000 FEET, ESTIMATE ZAKUM FIELD AT 1253."
+
+    **Controller**: "A6-CTL, LEAVE CONTROLLED AIRSPACE ON TRACK ZAKUM, AT ALTITUDE 6,000 FEET IFR, TRAFFIC IS ... RADAR SERVICE TERMINATED."
+
+    **Pilot**: "LEAVE CONTROLLED AIRSPACE ON TRACK ZAKUM, AT 6,000 FEET, COPY THE TRAFFIC, A6-CTL."
+
+    **Controller**: "A6-CTL, LEAVE CONTROLLED AIRSPACE IN DESCENT, REPORT PASSING ALTITUDE 4,500 FEET, QNH 1014, NO REPORTED TRAFFIC, RADAR SERVICE TERMINATED."
+
+    **Pilot**: "LEAVING CONTROLLED AIRSPACE IN DESCENT, WILL REPORT ALTITUDE 4,500 FEET, QNH 1014, NO REPORTED TRAFFIC, A6-CTL."
+
+### 3.5.6 Holding en-route
+When an aircraft is required to hold en-route, the controller should issue holding instructions and a time at which onward clearance can be expected. Where it is not self-evident, the reason for the delay should also be given. Within the Arabian FIRs, a time for an onward clearance is only given if the delay is in excess of 20 minutes.
+
+!!! example
+    **Controller**: "EMIRATES 4CK, HOLD AT IMPED, FL220, EXPECT FURTHER CLEARANCE, AT TIME 02, LANDING DELAYS AT DUBAI 20 MINUTES."
+
+    **Pilot**: "HOLD AT IMPED, FL220, EMIRATES 4CK."
+
+    **Controller**: "EMIRATES 4CK, HOLD AT VUTEB, FL160."
+
+    **Pilot**: "HOLD AT VUTEB, FL160, EMIRATES 4CK."
