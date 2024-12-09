@@ -7,13 +7,13 @@ From time to time, aircraft may request to simulate emergencies. As a controller
 
 Ideally, *“MAYDAY”* or *“PAN PAN”* should be spoken **three times** at the start of the initial distress or urgency call.  
 
-### Transmission Priorities  
+### 4.1.1 Transmission Priorities  
 1. **Distress messages** take priority over all other transmissions.  
 2. **Urgency messages** take priority over all transmissions except distress messages.  
 
 Controllers should adjust phraseology and procedures as necessary, considering their specific operational needs and the time available.  
 
-### Elements of a Distress Message  
+### 4.1.2 Elements of a Distress Message  
 A distress message should include as many of the following elements as possible, ideally in the order shown:  
 
 1. **Aircraft identification**  

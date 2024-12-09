@@ -1,11 +1,16 @@
 # 2. General Procedures and Phraseology
 ## 2.1 Establishment and continuation of communications
 ### 2.1.1 Initial Contact
-During initial contact, aircraft should identify themselves with the full callsign as well as the callsign of the station being addressed.
+1. **Identification During Initial Contact**  
+   Aircraft should identify themselves using their full callsign along with the callsign of the station being addressed.
 
-The responsibility of establishing communication rests with the station with a message to transmit.
+2. **Responsibility for Establishing Communication**  
+   The responsibility for initiating communication lies with the station that has a message to transmit.
 
-When responding to a transmission the phrase “GO AHEAD” shall not be used. The use of the calling station’s callsign and the receiving station’s callsign is considered an invitation to proceed with the message. In addition, the phrase “PASS YOUR MESSAGE” may also be used.
+3. **Response Protocols**  
+   - Avoid using the phrase “GO AHEAD” when responding to a transmission.  
+   - Instead, use the callsign of the calling station and the receiving station’s callsign to invite the transmission of the message.  
+   - Alternatively, the phrase “PASS YOUR MESSAGE” may also be used as an appropriate response.
 
 !!! example
     **Pilot**: "DUBAI TOWER, EMIRATES 201"
@@ -13,26 +18,26 @@ When responding to a transmission the phrase “GO AHEAD” shall not be used. T
     **Controller**: "EMIRATES 201, DUBAI TOWER" OR "EMIRATES 201, DUBAI TOWER, PASS YOUR MESSAGE."
 
 ### 2.1.2 Radio test procedures
-Aircraft may wish to test the functionality of their VHF equipment and should be done using the following form:
+When testing VHF equipment, the following format should be used:
 
-- Identification of the station being called
-- The aircraft callsign
-- The words “radio check”
-- The frequency being used
+1. Identify the station being called.  
+2. Provide the aircraft’s callsign.  
+3. Use the phrase “radio check.”  
+4. Specify the frequency being used.
 
-Replies to test transmissions should be as follows:
+Responses to test transmissions should include:
 
-- Identification of the aircraft calling
-- Identification of the station replying
-- Information regarding the readability of the transmission
+1. Identification of the aircraft making the call.  
+2. Identification of the station replying.  
+3. Information regarding the readability of the transmission.
 
-The readability of the transmission should be in accordance with the following readability scale:
+The readability of the transmission should be reported using the following standardized scale:
 
-1.	Unreadable
-2.	Readable now and then
-3.	Readable but with difficulty
-4.	Readable
-5.	Perfectly readable
+1. **Unreadable**  
+2. **Readable now and then**  
+3. **Readable but with difficulty**  
+4. **Readable**  
+5. **Perfectly readable**
 
 !!! example
     **Pilot**: "DUBAI DELIVERY, EMIRATES 587, REQUEST RADIO CHECK ON 120.350."
@@ -40,7 +45,7 @@ The readability of the transmission should be in accordance with the following r
     **Controller**: "EMIRATES 587, DUBAI DELIVERY, READABILITY 5."
 
 ### 2.1.3 Requesting a repetition
-If there is doubt that a message has been correctly received, a repetition should be requested in full or in part.
+If there is any uncertainty about whether a message has been correctly received, a repetition should be requested either in full or in part.
 
 | Phrase                                                                                                                                                                                                                                                   | Meaning                |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
@@ -48,7 +53,7 @@ If there is doubt that a message has been correctly received, a repetition shoul
 | "SAY AGAIN <Item>"                                                                                                                                                                                                                                       | Repeat specific item   |
 | "SAY AGAIN ALL BEFORE `First word satisfactorily received`" **OR** "SAY AGAIN ALL AFTER `Last word satisfactorily received`" **OR** "SAY AGAIN ALL BETWEEN `First word satisfactorily received` AND `Last word satisfactorily received`"                 | Repeat part of message |
 
-When ATC is unsure of the identity of the last station received, the calling station should be requested to repeat its callsign.
+When ATC is uncertain of the identity of the last station received, the calling station should be asked to repeat its callsign.
 
 !!! example
     **Pilot**: "HAMAD TOWER, IFLY 1307."
@@ -58,12 +63,14 @@ When ATC is unsure of the identity of the last station received, the calling sta
     **Pilot**: "HAMAD TOWER, IFLY 1307."
 
 ### 2.1.4 Correcting a transmission
-When an error is made in a transmission, the word “CORRECTION” is used followed by the corrected version of the last phrase that was repeated.
+1. **Correcting a Specific Phrase**  
+   If an error is made during transmission, use the word **“CORRECTION”** followed by the corrected version of the last phrase.
 
-If it is more appropriate to make a correction by repeating the entire message, the phrase “CORRECTION, I SAY AGAIN” is used before transmitting the entire message a second time.
+2. **Correcting the Entire Message**  
+   When it is more appropriate to correct the error by repeating the entire message, use the phrase **“CORRECTION, I SAY AGAIN”** before retransmitting the full message.
 
 ## 2.2 Transmission of letters
-Except where aircraft have designated callsigns, or the type of aircraft is being indicated, each letter in the aircraft callsign shall be spoken separately using the phonetic spelling.
+Unless the aircraft has a designated callsign or the type of aircraft is being referenced, each letter in the aircraft’s callsign must be spoken individually using phonetic spelling.
 
 |  Letter   |      Word      |         Alphabet Representation         |
 |:---------:|:--------------:|:---------------------------------------:|
@@ -95,7 +102,7 @@ Except where aircraft have designated callsigns, or the type of aircraft is bein
 |     Z     |      ZULU      |              ZOO   loo                  |
 
 ## 2.3 Transmission of numbers
-The following table lists the phonetic spelling of numbers and number terms, syllables to be emphasised are in upper case.
+The table below provides the phonetic spelling for numbers and numerical terms. Syllables to be emphasized are indicated in uppercase.
 
 |     Letter     |        Word       |
 |:--------------:|:-----------------:|
@@ -113,23 +120,28 @@ The following table lists the phonetic spelling of numbers and number terms, syl
 |     Hundred    |      HUN-dred     |
 |    Thousand    |      TOU-SAND     |
 
-All numbers must be transmitted by pronouncing each digit separately in the following cases:
+All numbers must be pronounced digit by digit in the following contexts:
 
-- Aircraft callsigns
-- Flight levels
-- Headings
-- Wind direction and speed
-- Transponder codes
-- Runway/taxiway designators
-- Altimeter settings
-- Times
-- Frequencies
+- Aircraft callsigns  
+- Flight levels  
+- Headings  
+- Wind direction and speed  
+- Transponder codes  
+- Runway/taxiway designators  
+- Altimeter settings  
+- Times  
+- Frequencies  
 
-All numbers used in the transmission of aircraft call-signs, flight levels, headings, wind direction and speed, transponder codes, runway/taxiway designators, altimeter settings, time, and frequencies must be transmitted by pronouncing each digit separately: 
+For taxiway designators, the following options are available:
 
-- Taxiway designators - First option:  Standard Phraseology: “MIKE ONE THREE ALPHA” 
-- Taxiway designators - Second option: Standard Phraseology combined with Repeated Standard Phraseology: “MIKE ONE THREE ALPHA, I SAY AGAIN, MIKE ONE THREE ALPHA”
-- Taxiway designators - Third option:  Standard Phraseology combined with Plain Language: “MIKE ONE THREE ALPHA, I SAY AGAIN, MIKE THIRTEEN ALPHA”
+1. **Standard Phraseology**  
+   Example: “MIKE ONE THREE ALPHA”  
+
+2. **Standard Phraseology with Repetition**  
+   Example: “MIKE ONE THREE ALPHA, I SAY AGAIN, MIKE ONE THREE ALPHA”  
+
+3. **Standard Phraseology with Plain Language**  
+   Example: “MIKE ONE THREE ALPHA, I SAY AGAIN, MIKE THIRTEEN ALPHA”  
 
 ## 2.4 Applications of number transmission
 |        Application       |                   Example                   |                                                                           Transmitted as                                                                          |                                                                           Pronounced as                                                                           |
@@ -145,11 +157,17 @@ All numbers used in the transmission of aircraft call-signs, flight levels, head
 |     Transponder codes    |        Squawk 2400<br><br>Squawk 4203       |                                                    Squawk two four zero zero<br><br>Squawk four two zero three                                                    |                                                    Squawk TOO FOWER ZERO ZERO<br><br>Squawk FOWER TOO ZERO TREE                                                   |
 
 ## 2.5 Transmission of time
-When transmitting time, only the minutes of the hour are normally required. Each digit should be pronounced separately, however the hour should be included when any possibility of confusion is likely to result. 
+1. **Minutes and Hours**  
+   - When transmitting time, only the minutes of the hour are typically required.  
+   - Pronounce each digit separately.  
+   - Include the hour if there is a possibility of confusion.
 
-Co-ordinated universal time (UTC/” Zulu”) shall be used. 
+2. **Use of Coordinated Universal Time (UTC)**  
+   - Time must be transmitted using Coordinated Universal Time (UTC), also referred to as "Zulu" time.
 
-Pilots may check the time with the appropriate ATS unit. Time checks must be given to the nearest half minute.
+3. **Time Checks**  
+   - Pilots may request a time check from the appropriate ATS unit.  
+   - Time checks must be accurate to the nearest half-minute.
 
 !!! example
     **Pilot**: "QATARI 1018, REQUEST TIME CHECK."
@@ -157,9 +175,12 @@ Pilots may check the time with the appropriate ATS unit. Time checks must be giv
     **Controller**: "QATARI 1018, TIME 0611" OR "QATARI 1018, TIME 0716 AND A HALF"
 
 ## 2.6 Standard words and phrases
-The following words and phrases must be used in radiotelephony communications as appropriate and when used have the meaning given below 
+1. **Use of Standard Words and Phrases**  
+   Specific words and phrases must be used in radiotelephony communications as appropriate. When used, they carry the meanings assigned to them.
 
-The phrase “GO AHEAD” should be avoided, in its place the use of the calling aeronautical stations call sign followed by the answering aeronautical stations call sign shall be considered the invitation to proceed with transmission by the station calling.
+2. **Avoiding the Phrase “GO AHEAD”**  
+   - The phrase “GO AHEAD” should be avoided.  
+   - Instead, the calling aeronautical station’s callsign followed by the answering aeronautical station’s callsign should be used as an invitation to proceed with the transmission.
 
 | Word/Phrase              | Meaning                                                                                                                                                                                                                                                     |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -197,7 +218,7 @@ The phrase “GO AHEAD” should be avoided, in its place the use of the calling
 | “WORDS   TWICE”          | (a) as a request: communication is difficult. Please send every word or group of words twice<br>(b) as information: since communication is difficult every word group of words in this message will be sent twice                                           |
 
 ## 2.7 Callsigns
-Aeronautical stations are identified by the name of the location followed by the service available as follows:
+Aeronautical stations are identified by the name of the location, followed by the service available, as outlined below:
 
 | Station        | Description                                           |
 |----------------|-------------------------------------------------------|
@@ -215,19 +236,21 @@ Aeronautical stations are identified by the name of the location followed by the
 | Dispatch       | Company dispatch                                      |
 | Ground         | Surface movement control (GND) (GMC)                  |
 
-The name of the location or the service may be omitted provided that satisfactory communication has been established.
+The name of the location or the service may be omitted once satisfactory communication has been established.
 
 ### 2.7.1 Aircraft callsigns
 !!! info
-    Source material for this section has been taken from the U.A.E GCAA CAAP 47 document.
+    The information in this section is based on the U.A.E GCAA CAAP 47 document.
 
-An aircraft shall not change its call sign during flight except when there is a likelihood that confusion may occur because of similar call signs, and the aircraft has been instructed by an air traffic control unit to change its call sign temporarily: 
+2. **Changing Aircraft Call Signs**  
+   An aircraft shall not change its call sign during flight unless there is a risk of confusion due to similar call signs, and the aircraft has been instructed by an air traffic control unit to temporarily change its call sign.
 
-- First option – Standard Phraseology: “AIRLINE ONE TWO THREE”
-- Second option – Standard Phraseology combined with Repeated Standard Phraseology: “AIRLINE ONE TWO THREE, I SAY AGAIN, AIRLINE ONE TWO THREE” 
-- Third option– Standard Phraseology combined with Plain Language: “AIRLINE ONE TWO THREE, I SAY AGAIN, AIRLINE ONE TWENTY-THREE" 
+   - **First option** – Standard Phraseology: “AIRLINE ONE TWO THREE”
+   - **Second option** – Standard Phraseology with Repeated Standard Phraseology: “AIRLINE ONE TWO THREE, I SAY AGAIN, AIRLINE ONE TWO THREE”
+   - **Third option** – Standard Phraseology with Plain Language: “AIRLINE ONE TWO THREE, I SAY AGAIN, AIRLINE ONE TWENTY-THREE”
 
-Aircraft in the heavy wake turbulence category shall include the word “HEAVY/ SUPER” as applicable immediately after the aircraft call sign in the initial contact between such aircraft and ATS units.
+3. **Heavy Wake Turbulence Category**  
+   Aircraft in the heavy wake turbulence category must include the word **“HEAVY”** or **“SUPER”** (as applicable) immediately after the aircraft’s call sign during the initial contact with ATS units.
 
 !!! example
     **Controller**: "PAKISTAN TWO ONE EIGHT, CHANGE CALLSIGN TO PAKISTAN TWO ONE LIMA [UNTIL FURTHER ADVISED]."
@@ -239,7 +262,7 @@ Aircraft in the heavy wake turbulence category shall include the word “HEAVY/ 
     **Pilot**: "PAKISTAN TWO ONE LIMA WILCO."
 
 ## 2.8 Transfer of communications
-An aircraft shall be advised by the appropriate aeronautical station to change from one radio frequency to another in accordance with letter of agreements between ATS units.
+An aircraft shall be instructed by the appropriate aeronautical station to change from one radio frequency to another, in accordance with the letter of agreements between ATS units.
 
 !!! example
     **Controller**: "SKYDUBAI 12, CONTACT U.A.E RADAR ON 132.150."

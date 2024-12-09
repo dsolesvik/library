@@ -1,26 +1,19 @@
 # Document Information
 ## Document Control Details
-|                     |                                                   |
-|---------------------|---------------------------------------------------|
-|         Type        |                    Procedure                      |
-|       Revision      |                     XX/XXX                        |
-|    Effective Date   |                    XX XXX XXXX                    |
-|     Prepared by     |                                                   |
-|     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    XX XXX XXXX                    |
-| Cancelled documents |                SOP XXXX R0X/XXXX                  |
+|                     |                         |
+|:-------------------:|:-----------------------:|
+|         Type        |       Foundations       |
+|       Revision      |         01/2025         |
+|    Effective Date   |       01 JAN 2025       |
+|     Prepared by     | Chriss Klosowski - ARB2 |
+|     Approved by     |  Chris Marriott - ARB1  |
+|   Next review date  |       01 JAN 2026       |
+| Cancelled documents | UAE TG RTM R01-2021.pdf |
 
 ## Record of Revisions
-<table><thead>
-  <tr>
-    <th>Revision Number</th>
-    <th>Notes</th>
-    <th>Effective Date</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>XX/XXXX</td>
-    <td>Initial issue</td>
-    <td>XX XXX XXX</td>
-  </tr>
-</tbody></table>
+| Revision Number | Notes                                                                                                                                       | Effective Date |
+|:---------------:|---------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+|     01/2020     | Initial issue                                                                                                                               | 16 JUL 2020    |
+|     02/2020     | Revised format,<br>Corrected typos                                                                                                          | 08 OCT 2020    |
+|     01/2021     | Initial issue for 2021                                                                                                                      | 02 APR 2021    |
+|     01/2025     | Material moved from .pdf to the Arabian vACC - Library,<br>Updated radiotelephony,<br>Added Doha examples,<br>Removed only U.A.E references | 01 JAN 2025    |
