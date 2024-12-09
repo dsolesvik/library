@@ -67,7 +67,7 @@ Controllers must actively listen to, and insist upon, a correct **readback** to 
 
     **Pilot**: "INFORMATION CHARLIE, QNH 1018, WILCO, EMIRATES 587."
 
-#### 3.1.2.1 Doha Specific
+#### 3.1.2.4 Doha Specific
 !!! example
     **Controller**: "QATARI 35B, CLEARED TO MUNICH, TULUB1W DEPARTURE, CLIMB VIA THE SID TO ALTITUDE 4000 FEET, SQUAWK 2615."
 
@@ -733,7 +733,7 @@ ATC instructions to an aircraft to re-join a SID shall include:
   - The cleared level on re-joining the SID in accordance with above  
   - The position at which it is expected to re-join the SID.  
 
-##### 3.4.7.2 Phraseology for Re-join Instructions:  
+#### 3.4.7.2 Phraseology for Re-join Instructions:  
   - **CLEARED DIRECT <waypoint>, CLIMB TO <Cleared level>, EXPECT TO REJOIN SID [<SID designator>] [AT <waypoint>]**  
   - Then: **REJOIN SID [<SID designator>] [AT <waypoint>]**  
   - **CLEARED DIRECT <waypoint>, CLIMB TO <Cleared level>**  
@@ -790,7 +790,7 @@ ATC instructions to an aircraft to re-join a STAR shall include:
   - The cleared level on re-joining the STAR in accordance with above  
   - The position at which it is expected to re-join the STAR.  
 
-##### 3.4.8.2 Phraseology for Re-join Instructions:  
+#### 3.4.8.2 Phraseology for Re-join Instructions:  
   - **CLEARED DIRECT <waypoint>, DESCEND TO <Cleared level>, EXPECT TO REJOIN STAR [<STAR designator>] [AT <waypoint>]**  
   - Then: **REJOIN STAR [<STAR designator>] [AT <waypoint>]**  
   - **CLEARED DIRECT <waypoint>, DESCEND TO <Cleared level>**  
