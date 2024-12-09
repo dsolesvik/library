@@ -2,8 +2,8 @@
 ## 4.1 General provisions
 The Ground Movement Controller (GMC) is responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
-## 4.2 Departure pushback procedures
-### 4.2.1 General pushback procedures
+## 4.2 Pushback procedures
+### 4.2.1 General procedure
 When aircraft have been handed off to GMC, they shall be fully ready for pushback, and are 5 minutes from their TOBT. Assuming no obstructions, they shall be instructed to push back immediately. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled, and a new TOBT is assigned.
 
 Aircraft requesting push that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code. They must not be allowed to move until doing so. 
@@ -59,7 +59,7 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 ### 4.2.3 Simultaneous pushback operations
 Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuvre in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.
 
-### 4.2.4 Dual runway 30R departure pushback procedures
+### 4.2.4 Dual runway 30R pushback procedures
 When departing 30R, all aircraft parked on apron B and F shall be instructed to push back to “FACE WEST”.
 
 Aircraft on A, C, D and E aprons shall be in instructed to push back to “FACE EAST” as provided in 3.2.1.
@@ -77,20 +77,20 @@ Other traffic shall be pushed back in the appropriate direction for taxi as prov
 
     For traffic parked on stand C62, C63 and C64, before issuing pushback instruction, GMC 2 must coordinate the pushback with GMC 1 to avoid blocking J1 for Code F traffic.
 
-### 4.2.5 Dual runway 12R departure pushback procedures
+### 4.2.5 Dual runway 12R pushback procedures
 When departing 12R, aircraft south of 12L shall push in the appropriate direction to give the shortest taxi possible to the standard departure point on 12R. 
 
 Aircraft on aprons E and Q shall be instructed to push in the appropriate direction that will allow the shortest taxi time to holding point N2.
 
 ### 4.2.6 Single runway pushback procedures
-During single runway operations, aircraft shall be pushed back in the most convenient direction to join the appropriate taxi route as provided in 3.3 for the respective runway mode.
+During single runway operations, aircraft shall be pushed back in the most convenient direction to join the appropriate taxi route as provided in 4.3 for the respective runway mode.
 
-## 4.3 Departure taxi procedures
-### 4.3.1 General departure taxi procedures
-Departing aircraft from aprons F, B and D are usually taxied out using the taxiways closest to the concourses (U, W, Y, Z). The only exception to this is code F (A380/B747-8) traffic departing from apron B which must taxi using J and must not be allowed to taxi on U, W or Y. 
+## 4.3 Taxi procedures
+### 4.3.1 General procedures
+Departing aircraft from aprons F, B and D are usually taxied out using the taxiways closest to the concourses (U, W, Y, Z). The only exception to this is code F (A380/B747-8) traffic departing from apron B which must taxi using J and must not be allowed to taxi on U, W or Y.
 
-!!! info
-    Where aircraft are taxied to runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi. For traffic taxiing between GMC areas of responsibility, aircraft should be handed off early enough to ensure a non-stop taxi, provided no conflicts are anticipated.
+!!! important
+    Where aircraft are taxied to runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi. For traffic taxiing between GMC areas of responsibility, aircraft should be handed off early enough to ensure a non-stop taxi, provided no conflicts are anticipated. 
 
 !!! example
     **Pilot**: "Dubai Ground, UAE7TR, request taxi."
@@ -112,17 +112,26 @@ Intermediate holding points shall always be used when transferring aircraft betw
 
     **Pilot**: "Taxi via Z, L4, hold L4A, UAE9LT."
 
+Arriving aircraft shall not immediately be handed off by AIR. They must instead be given an initial taxi instruction onto M, N, J2 or K to keep traffic flowing. Therefore, GMC shall assign an arrival stand to aircraft when they are on final approach.
+
+Once the aircraft is handed off to GMC, they may be taxied to their stand. Arrivals shall generally be taxied via the outside taxiways that are farthest away from the stands. 
+
+Aircraft are not required to cross-over to the inside taxiways before initiating the turn onto stand for aprons A, B, D, and F.
+
 ### 4.3.2 Taxiway restrictions
 Code F aircraft shall not be permitted to taxi on U, Y, W. These taxiways are limited to code E and below.
 
-Code F aircraft shall not be permitted to use the curved portions of J, J1 and J2 if code E aircraft are taxiing on the curved portions of U, Y or W. Code F traffic shall be instructed to hold short of the curved portion until the inner taxiway is clear.
+Code F aircraft shall not be permitted to use the curved portions of J, J1 and J2 if code E aircraft are simultaneously taxiing on the curved portions of U, Y or W and vice versa. 
+
+In this case, traffic shall be instructed to hold short of the curved portion until the adjacent curved taxiway is clear.
 
 Taxiway Q shall be limited to code C and below.
 
 !!! important
     These taxiway restrictions must be adhered to to ensure adequate wingtip clearance during taxi.
 
-### 4.3.2 Dual runway 30R departure taxi procedures
+### 4.3.3 Dual runway 30R
+#### 4.3.3.1 Departure taxi procedures
 When departing from 30R in the dual runway configuration, all aircraft pushing back on apron B and F shall be instructed to taxi via L4 and M.
 
 Aircraft on aprons A and D shall be instructed to taxi to holding point K14. During periods of lower aerodrome departure or arrival activity, K11 or K12 may be used for runway crossings only after coordination with AIR. 
@@ -135,7 +144,40 @@ Departures from apron C shall be instructed to taxi via L1 and M.
 
 In all applicable cases, when traffic turns to enter taxiway M, transfer to AIR shall be initiated.
 
-Departures from apron E shall be instructed to cross over to and taxi via N. 
+Departures from apron E shall be instructed to cross over to and taxi via N.
+
+#### 4.3.3.2 Arrival taxi procedures
+Aircraft shall vacate 30L onto K9, K8 or K6, depending on the stand assignment described in 3.4.5. After initial taxi is issued by AIR, aircraft are handed off to GMC as provided below. 
+
+##### Apron A
+For aircraft parking on apron A vacating at K8, taxi routings shall be via K eastbound.
+
+##### Apron B (except stand B27)
+Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.
+
+Traffic shall be instructed by GMC1 to taxi right on J to the appropriate stand.
+
+##### Stand B27 and F27
+Traffic parking on F27 and B27 shall be instructed by AIR South to taxi via J right onto Z then left onto W  to hold at WA. Traffic shall then be transferred to GMC 1 for further taxi. 
+
+##### Apron C
+Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.
+
+GMC 1 shall issue taxi via K westbound to hold at KF and transfer control to GMC 2. GMC 2 shall taxi the aircraft to the appropriate stand.
+
+##### Apron D
+Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.
+
+GMC 1 shall instruct traffic to taxi left on J for the appropriate stand.
+
+##### Apron E
+Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.
+
+GMC 1 shall instruct traffic to taxi via K, L3 then to holding point M2. Before reaching M2, aircraft shall be transferred to AIR North for runway crossing.
+
+After runway crossing, traffic shall be transferred to GMC 2 to taxi to the appropriate stand.
+
+##### Apron F (except stand F26L)
 
 <figure markdown>
 ![Taxi routings - 30 dual config](img/OMDB 30 TITO.png)
@@ -144,21 +186,24 @@ Departures from apron E shall be instructed to cross over to and taxi via N.
   <figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
 </figure>
 
-### 4.3.3 Single runway 30R departure taxi procedures
+### 4.3.4 Single runway 30R
+#### 4.3.4.1 Departure taxi procedures
 When departing 30R in the single runway configuration, all aircraft pushing back on apron A, B, D and F shall be instructed to taxi via K4, K7, or K11 and cross 30L as appropriate.
 
 Except for aircraft taxiing from apron C, the section of taxiway M west of K4 shall not be used for departure taxi as this blocks the arrival flow from 30R.
 
 The taxi routes from apron E shall be the same as with the dual runway 30 configuration.
 
-### 4.3.4 Single runway 30L departure taxi procedures
+### 4.3.5 Single runway 30L
+#### 4.3.5.1 Departure taxi procedures
 When departing 30L in the single runway configuration, all aircraft pushing back on aprons A, B, D and F shall taxi via Z until past 30L RETs after which they shall cross onto K and taxi to holding point K17.
 
 Eastbound flow shall not be permitted on K between K1 and K8.
 
 Aircraft on apron E shall cross 30R at N9 and taxi to holding point M20.
 
-### 4.3.5 Dual runway 12R departure taxi procedures (Arrival Bias)
+### 4.3.6 Dual runway 12R (Arrival Bias)
+#### 4.3.6.1 Departure taxi procedures
 When departing from 12R, aircraft parked on aprons A, B, D, F and C shall be taxied via the shortest appropriate route to the standard departure holding points K3, K4 and K5 avoiding conflicts with other departing or arriving traffic.
 
 Aircraft parked on apron E and Q shall be taxied via the standard route to holding point N2. Before reaching N2, aircraft are transferred to AIR North for runway crossing. Aircraft then shall taxi via L3, then K to holding point K3, K4 or K5 as appropriate.
@@ -175,15 +220,17 @@ Departing traffic shall not be issued taxi to holding points M
 ![Taxi routings - 12 dual config (departure bias)](img/OMDB 12 TITO DB.png)
 </figure>
 
-### 4.3.7 Single runway 12R departure taxi procedures
+### 4.3.8 Single runway 12R
+#### 4.3.8.1 Departure taxi procedures
 Departure taxi routes for 12R single runway operation shall be the same as in dual runway operations, except that aircraft may be assigned full length holding points without restriction.
 
-### 4.3.8 Single runway 12L departure taxi procedures
+### 4.3.9 Single runway 12L
+#### 4.3.9.1 Departure taxi procedures
 When operating from 12L during single runway operation, aircraft pushing back on the southern aprons shall taxi westbound to join L3/L4 and then to M1.
 
 Aircraft departing the northern aprons shall taxi to N1.
 
-### 4.3.9 Departure handoff procedures
+### 4.3.10 Handoff procedures
 When departing traffic has been instructed to taxi to their departure holding points as per the standard taxi routings and when the handoff towards AIR is initiated as per AoR, GMC will ask departing aircraft to monitor the AIR frequency. 
 
 !!! example
@@ -196,52 +243,6 @@ When departing traffic has been instructed to taxi to runway holding points for 
 
 !!! important
     The key distinction between monitor and contact is as follows: monitor instructs the pilot to switch to the assigned frequency and await a call from the next controller, while contact requires the pilot to switch frequencies and make an initial call. During periods of high traffic, the use of monitor is preferred over contact to reduce radio frequency congestion.
-
-## 4.4 Arrival taxi procedures
-### 4.4.1 General arrival taxi procedures
-Arriving aircraft shall not immediately be handed off by AIR. They must instead be given an initial taxi instruction onto M, N, J2 or K to keep traffic flowing. Therefore, GMC shall assign an arrival stand to aircraft when they are on final approach. 
-
-Once the aircraft is handed off to GMC, they may be taxied to their stand. Arrivals shall generally be taxied via the outside taxiways that are farthest away from the stands. 
-
-Aircraft are not required to cross-over to the inside taxiways before initiating the turn onto stand for aprons A, B, D, and F.
-
-### 4.4.2 Dual runway 30L arrival taxi procedures
-#### General
-Aircraft shall vacate 30L onto K9, K8 or K6, depending on the stand assignment described in 3.4.5. After initial taxi is issued by AIR, aircraft are handed off to GMC as provided below. 
-
-#### Apron A
-For aircraft parking on apron A vacating at K8, taxi routings shall be via K eastbound.
-
-#### Apron B (except stand B27)
-Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.
-
-Traffic shall be instructed by GMC1 to taxi right on J to the appropriate stand.
-
-#### Stand B27 and F27
-Traffic parking on F27 and B27 shall be instructed by AIR South to taxi via J right onto Z then left onto W  to hold at WA. Traffic shall then be transferred to GMC 1 for further taxi. 
-
-#### Apron C
-Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.
-
-GMC 1 shall issue taxi via K westbound to hold at KF and transfer control to GMC 2. GMC 2 shall taxi the aircraft to the appropriate stand.
-
-#### Apron D
-Traffic shall vacate via K8 or K9 then be instructed by AIR South to taxi to J2A. Traffic shall then be transferred to GMC 1.
-
-GMC 1 shall instruct traffic to taxi left on J for the appropriate stand.
-
-#### Apron E
-Traffic shall vacate at K9, K8 or K6, AIR South shall instruct traffic to taxi via K and hold short at KL and initiate transfer to GMC 1.
-
-GMC 1 shall instruct traffic to taxi via K, L3 then to holding point M2. Before reaching M2, aircraft shall be transferred to AIR North for runway crossing.
-
-After runway crossing, traffic shall be transferred to GMC 2 to taxi to the appropriate stand.
-
-#### Apron F (except stand F26L)
-
-<figure markdown>
-![Taxi routings - 30 dual config](img/OMDB 30 TITO.png)
-</figure>
 
 ### 4.4.4 Single runway 30L arrival taxi procedures
 Routings are similar to 30L dual runway taxi, however caution should be exercised for traffic vacating onto J2, as this will cross the departure traffic taxiing eastbound on Z. Appropriate coordination shall be used to mitigate the risk of blocking the high speed exit.

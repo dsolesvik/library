@@ -41,7 +41,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 | Concourse C      | Stands B1 to B12, F2 to F13   | FDB (Stands: F2, B1 to B10), UAE                                                                                  |
 | Concourse D      | Stands C48 to C64             | International Operators                                                                                           |
 | Apron C (Remote) | Stands C18 to C47             | UAE (Stands: C24 to C40), FDB (Stands: C18 to C23, C27 to C40), KAM (Stands: C36 to C40), International Operators |
-| Apron E (Remote) | Stands E1 to E45              | Someone figure this one out its complicated lmao                                                                  |
+| Apron E (Remote) | Stands E1 to E45              | AXB, FDB, other low cost and cargo operators                                                                  |
 | Apron G (Remote) | Stands G1 to G22              | UAE (Overflow)                                                                                                    |
 | Apron H          | Stands H1 to H4               | AUH, DUB                                                                                                          |
 | Apron Q (Remote) | Stands Q1 to Q11              | FDB                                                                                                               |

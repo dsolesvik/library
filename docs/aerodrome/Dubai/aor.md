@@ -6,6 +6,9 @@ Areas indicated in a cross-hatched colour are areas of shared responsibility. He
 
 Uncoloured areas are the responsibility of the respective GMC controller as indicated by the green boundary line between GMC 1 and GMC 2.
 
+!!! important
+    To avoid conflicts at taxiway intersections, aircraft shall only be cleared to the boundary of the controller's specific area of responsibility as described in section 4 unless the procedure specifically states otherwise (traffic taxiing on M to be cleared by GMC 1 to M13A before being handed off to AIR, for example).
+
 ## 2.2 Runway 30L/30R
 <figure markdown>
 ![Areas of Responsibility 30 config](img/OMDB AIR Split 30.png)
