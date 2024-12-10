@@ -75,4 +75,94 @@ EuroScope is a software application that allows members to provide air traffic c
 
 You’re now ready to start using EuroScope for observing or controlling on the VATSIM network. For further assistance, ask your questions in the Arabian vACC Discord in the Training-Text channel or the mentoring/instructor team.
 
-## Observing with Euroscope
+## Observing on the VATSIM Network with EuroScope
+Before starting, ensure you have installed and set up an **Audio for VATSIM** client. Refer to the **Audio Section** in the **Controller Software Setup section** for details.
+
+### Connecting to the Network  
+
+- **Load a Profile**  
+     - Open the EuroScope profile for the position you want to observe (e.g., Aerodrome Dubai, Aerodrome Abu Dhabi, or Aerodrome Doha).  
+
+- **Connect to the Network**  
+     - Click the **Connect** button in the top-left corner of the screen.  
+     - Fill out the connection dialog:  
+         - Replace `<INITIALS>` with your own initials (e.g., "CK" for Chriss Klosowski). Keep the **_OBS** suffix to indicate observer status.  
+         - Enter your **Real Name** as per the VATSIM Code of Conduct A4(b).  
+         - Input your **VATSIM Certificate** and **Password**.  
+         - Set **Facility & Rating** to **Observer**.  
+         - Select **Server** as **Automatic**.  
+     - Click the **Connect** button at the bottom-left of the dialog.  
+
+<figure markdown="span">
+  ![Euroscope: Connecting as an Observer](img/euroscope_connect_obs.png)
+  <figcaption>Euroscope: Connecting as an Observer</figcaption>
+</figure>
+
+- **Post-Connection**  
+       - Once connected, the connection dialog will disappear, and the **Voice Communication Setup** window will open. Close this window.  
+       - If there is traffic in the area, aircraft will begin populating on your screen. You are now connected!  
+
+### Listening to Active Frequencies  
+
+To listen to an active position, you must connect to the Audio for VATSIM service using either **Audio for VATSIM** or **Track Audio**.  
+
+#### Using Audio for VATSIM  
+- Open **Audio for VATSIM** and click **Connect**.  
+- Your active callsign (e.g., **CK_OBS**) will appear above the **+** button with a frequency of **199.998**.  
+- To select a frequency:  
+      - Click the **+** button below your active callsign.  
+      - Enter the callsign of the station you want to listen to (e.g., **OMDB_1_GND**) and press **Enter**.  
+      - The frequency will appear below your active callsign.  
+- Press the **RX** button to start listening to the selected frequency.  
+-  When a transmission occurs:  
+      - The **RX** button will turn orange.  
+      - The last transmitting callsign will display at the top of your window.  
+- To add another frequency, click the **+** button and repeat the process.
+
+<figure markdown="span">
+  ![Audio for VATSIM Client: Connecting Online](img/afv_connect.png)
+  <figcaption>Audio for VATSIM Client: Connecting Online</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Audio for VATSIM Client: Adding a Position](img/afv_add_pos.png)
+  <figcaption>Audio for VATSIM Client: Adding a Position</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Audio for VATSIM Client: Receiving on a Frequency](img/afv_rx_pos.png)
+  <figcaption>Audio for VATSIM Client: Receiving on a Frequency</figcaption>
+</figure>
+
+#### Using Track Audio  
+- Open **Track Audio** and click **Connect**.  
+- Your active callsign (e.g., **CK_OBS**) will display at the top of the window.  
+- To listen to a frequency:  
+       - Under **Add a Station**, enter the callsign of the station you want to monitor (e.g., **OMDB_1_GND**) and click **Add**.  
+       - The frequency will appear in the list.  
+       - Press the **RX** button to begin listening.  
+- When a transmission occurs:  
+       - The **RX** button will turn orange.  
+       - The last transmitting callsign will display at the top of the window.  
+- To monitor another frequency, click the **+** button in the top-left corner and repeat the process.
+
+<figure markdown="span">
+  ![Track Audio Client: Connecting Online](img/trackaudio_connect.png)
+  <figcaption>Track Audio Client: Connecting Online</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Track Audio Client: Adding a Position](img/trackaudio_add_pos.png)
+  <figcaption>Track Audio Client: Adding a Position</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Track Audio Client: Receiving on a Frequency](img/trackaudio_rx_pos.png)
+  <figcaption>Track Audio Client: Receiving on a Frequency</figcaption>
+</figure>
+
+!!! important
+    - Ensure the station you wish to monitor is active and online.  
+    - If you do not hear transmissions, it may mean there are no active transmissions on the frequency at that time.  
+
+You’re now set up to observe and listen to live ATC on the VATSIM network!

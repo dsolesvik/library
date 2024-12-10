@@ -2,7 +2,7 @@
 ## What is vATIS?
 vATIS is a software tool that enables controllers to create and broadcast multiple Automatic Terminal Information Service (ATIS) messages on the VATSIM network. It is an essential tool for air traffic controllers to provide pilots with crucial airport and weather information.
 
-## How to Download vATIS
+### How to Download vATIS
 1. Visit the vATIS documentation and download page at [this link](https://docs.vatis.clowd.io/#/).
 2. Follow the instructions provided on the website to download and install the software.
 
