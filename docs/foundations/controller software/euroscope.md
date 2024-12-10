@@ -76,6 +76,8 @@ EuroScope is a software application that allows members to provide air traffic c
 You’re now ready to start using EuroScope for observing or controlling on the VATSIM network. For further assistance, ask your questions in the Arabian vACC Discord in the Training-Text channel or the mentoring/instructor team.
 
 ## Euroscope Functionalities
+Comprehensive functionality and documentation are available at [EuroScope Documentation](https://www.euroscope.hu/wp/documentation-about-euroscope/).  
+
 ### Sector Menu
 In this menu, you'll find options to modify the core EuroScope sector file and displays. Clicking **OPEN** allows you to choose from a variety of pre-configured ASR Displays located in the **FIR CODE/ASR** folder. **Load Sector File** will reload the .sct file, which contains all navigation and airspace data for the FIR.
 
