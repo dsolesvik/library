@@ -75,6 +75,172 @@ EuroScope is a software application that allows members to provide air traffic c
 
 You’re now ready to start using EuroScope for observing or controlling on the VATSIM network. For further assistance, ask your questions in the Arabian vACC Discord in the Training-Text channel or the mentoring/instructor team.
 
+## Euroscope Functionalities
+### Sector Menu
+In this menu, you'll find options to modify the core EuroScope sector file and displays. Clicking **OPEN** allows you to choose from a variety of pre-configured ASR Displays located in the **FIR CODE/ASR** folder. **Load Sector File** will reload the .sct file, which contains all navigation and airspace data for the FIR.
+
+<figure markdown="span">
+  ![Euroscope: Sector Menu](img/euroscope_sector_menu.png)
+  <figcaption>Euroscope: Sector Menu</figcaption>
+</figure>
+
+### Other Settings Menu
+In this menu, you'll find options to save the profile (.prf), save your settings, and access various configuration options. 
+
+- **General Settings: Page 1**: Here, you can adjust options like the display, tags, and miscellaneous settings.  
+- **General Settings: Page 2**: This allows you to edit the ASR display fast keys (e.g., ++f1+1++/++2++/++3++/++4++/++5++/++6++/++7++/++8++/++9++).  
+- **Display Settings**: Choose what to display on the screen and control the display rotation. However, if everything is drawn via TopSky Maps, you can only adjust the rotation, not the content displayed.  
+- **Symbology Settings**: Customize the colors seen on the screen, though note that some symbology is controlled by plugins, not EuroScope.  
+- **Plugins Dialog**: View the currently active plugins.  
+- **Active Airport/Runway Selection**: Select the active runway(s) for departure and arrival. You can also open this menu by clicking the Runway icon next to the Quick Set menu.  
+
+<figure markdown="span">
+  ![Euroscope: Other Settings Menu](img/euroscope_other_settings_menu.png)
+  <figcaption>Euroscope: Other Settings Menu</figcaption>
+</figure>
+
+### Quick Setings Menu
+In this menu, you can choose which lists are displayed on your screen and customize their setup.  
+
+<figure markdown="span">
+  ![Euroscope: Quick Settings Menu](img/euroscope_quick_settings_menu.png)
+  <figcaption>Euroscope: Quick Settings Menu</figcaption>
+</figure>
+
+### Runway Selection Dialog
+Select the active runway(s) for departure and arrival. You can also open this menu by clicking the Runway icon next to the Quick Set menu.  
+
+<figure markdown="span">
+  ![Euroscope: Runway Selection Dialog](img/euroscope_runway.png)
+  <figcaption>Euroscope: Runway Selection Dialog</figcaption>
+</figure>
+
+### Window Positioning
+Right-clicking the maximize button lets you adjust the window positioning of EuroScope.  
+
+<figure markdown="span">
+  ![Euroscope: Window Positioning](img/euroscope_window_positioning.png)
+  <figcaption>Euroscope: Window Positioning</figcaption>
+</figure>
+
+### Keyboard Shortcuts
+<table><thead>
+  <tr>
+    <th>Keys</th>
+    <th>Parameters</th>
+    <th>Action</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>F2</td>
+    <td>+ 4 letter ICAO Code(s)</td>
+    <td>Add/Remove METARs</td>
+  </tr>
+  <tr>
+    <td>F3</td>
+    <td>+ Click Aircraft Tag OR Hover Aircraft Tag</td>
+    <td>Track Aircraft/Accept Handoff</td>
+  </tr>
+  <tr>
+    <td>F4</td>
+    <td>+ Click Aircraft Tag OR Hover Aircraft Tag</td>
+    <td>Drop Aircraft/Reject Handoff/Initiate Handoff</td>
+  </tr>
+  <tr>
+    <td>F5</td>
+    <td>+ Altitude (hundreds) + Click Aircraft Tag</td>
+    <td>Change Final Altitude (Flight plan altitude)</td>
+  </tr>
+  <tr>
+    <td>F6</td>
+    <td></td>
+    <td>Show Flight Strip for current aircraft</td>
+  </tr>
+  <tr>
+    <td>F7</td>
+    <td></td>
+    <td>Cycle through open Radar Views</td>
+  </tr>
+  <tr>
+    <td>F8</td>
+    <td>+ Altitude (hundreds) + Click Aircraft Tag</td>
+    <td>Change Temporary Assigned Altitude</td>
+  </tr>
+  <tr>
+    <td>F9</td>
+    <td>+ V/R/T + Click Aircraft Tag</td>
+    <td>Set the Communication Type (Voice/Receive/Text)</td>
+  </tr>
+  <tr>
+    <td>F11</td>
+    <td></td>
+    <td>Zoom In Radar</td>
+  </tr>
+  <tr>
+    <td>F12</td>
+    <td></td>
+    <td>Zoom Out Radar</td>
+  </tr>
+</tbody></table>
+
+<table><thead>
+  <tr>
+    <th>Keys</th>
+    <th>Command</th>
+    <th>Parameters</th>
+    <th>Action</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>F1 + A</td>
+    <td>.am</td>
+    <td>+ Click Aircraft Tag</td>
+    <td>Amend Flight Plan</td>
+  </tr>
+  <tr>
+    <td>F1 + C</td>
+    <td>.chat</td>
+    <td>+ Click Aircraft Tag</td>
+    <td>Open Chat Window</td>
+  </tr>
+  <tr>
+    <td>F1 + D</td>
+    <td>.distance</td>
+    <td>+ Click Aircraft Tag + Click Aircraft Tag/Point</td>
+    <td>Displays a continually updated distance between aircraft and/or point</td>
+  </tr>
+  <tr>
+    <td>F1 + F</td>
+    <td>.find</td>
+    <td>+ Type any Aircraft/Fix</td>
+    <td>Display line from center of screen to that point</td>
+  </tr>
+  <tr>
+    <td>F1 + P</td>
+    <td>.point</td>
+    <td>+ Controller ID + Click Aircraft Tag</td>
+    <td>Highlights the specified aircraft on the specified controllers screen</td>
+  </tr>
+  <tr>
+    <td>F1 + S</td>
+    <td>.sep</td>
+    <td>+ Click Aircraft Tag + Click Aircraft Tag</td>
+    <td>Displays continually updated prediction of closest point between aircraft</td>
+  </tr>
+  <tr>
+    <td>F1 + 0</td>
+    <td></td>
+    <td></td>
+    <td>Close the current ASR view</td>
+  </tr>
+  <tr>
+    <td>F1 + 1 to 9</td>
+    <td></td>
+    <td></td>
+    <td>Opens the pre-defined ASR views defined in General Settings, Page 2</td>
+  </tr>
+</tbody></table>
+
 ## Observing on the VATSIM Network with EuroScope
 Before starting, ensure you have installed and set up an **Audio for VATSIM** client. Refer to the **Audio Section** in the **Controller Software Setup section** for details.
 
@@ -100,7 +266,29 @@ Before starting, ensure you have installed and set up an **Audio for VATSIM** cl
 
 - **Post-Connection**  
        - Once connected, the connection dialog will disappear, and the **Voice Communication Setup** window will open. Close this window.  
-       - If there is traffic in the area, aircraft will begin populating on your screen. You are now connected!  
+       - If there is traffic in the area, aircraft will begin populating on your screen. You are now connected!
+       - If no traffic is visible despite activity in the area you're observing, type `.vis <ICAO>` (e.g., `.vis OMDB`) in the command line at the bottom and press Enter. This will center your visibility point on the selected aerodrome.
+       - To populate the different lists, select the active runways at the aerodrome you are observing using the runway selection dialog.  
+       - If the full taxiways, intermediate holding points, runway holding points, or stands are not visible (as intended), follow these steps in order to see them. You may need to zoom in to "activate" their display:  
+            - Open the grey Ground Radar Plugin menu.  
+            - Navigate to **FUNCTIONS -> Maps**.  
+            - Select the aerodrome you are observing.  
+            - Change the items you want from **AUTO** to **ON**.  
+
+<figure markdown="span">
+  ![Euroscope: Setting a Visibility Point](img/euroscope_vis.png)
+  <figcaption>Euroscope: Setting a Visibility Point</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Euroscope: Runway Selection Dialog](img/euroscope_runway.png)
+  <figcaption>Euroscope: Runway Selection Dialog</figcaption>
+</figure>
+
+<figure markdown="span">
+  ![Ground Radar Plugin: Turning on Taxiways, Intermediate holding points, runway holding points, and stands](img/grplugin_maps_selection.png)
+  <figcaption>Ground Radar Plugin: Turning on Taxiways, Intermediate holding points, runway holding points, and stands</figcaption>
+</figure>
 
 ### Listening to Active Frequencies  
 
@@ -166,3 +354,16 @@ To listen to an active position, you must connect to the Audio for VATSIM servic
     - If you do not hear transmissions, it may mean there are no active transmissions on the frequency at that time.  
 
 You’re now set up to observe and listen to live ATC on the VATSIM network!
+
+## Frequently Asked Questions
+??? Question "I don't see any aircraft"
+     EuroScope cannot automatically determine the aerodrome you want to observe. Set a visibility center for your desired airfield by typing `.vis <ICAO>` (e.g., `.vis OMDB`).  
+
+??? Question "I don't see any data in the lists"
+     When observing, EuroScope cannot identify your area of interest. You must manually select the active runways using the runway selection dialog.  
+
+??? Question "I don't see tags for aircraft on the ground"
+     This is an intended feature. Tags will appear once an aircraft's ground status is set to "ON FREQ" and it is squawking its code. If you wish to view all tags (though unrealistic), go to the Ground Radar Plugin menu (grey bar), click on **Settings -> Labels**, and untick **NoState**.  
+
+??? Question "I accidently closed my METAR, how do I get it back?"
+     type in .qd or press ++f2++ followed by the ICAO of the airport
