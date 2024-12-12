@@ -1,4 +1,7 @@
 # EuroScope
+!!! info
+    If you’re seeking a video tutorial on setting up Euroscope, installing our sector files, and getting ready to observe, check out our video [here!](https://www.youtube.com/watch?v=ycCieiy0ufc)
+
 ## What is EuroScope?  
 EuroScope is a software application that allows members to provide air traffic control on the VATSIM network. It is the primary ATC client used by controllers worldwide.
 
