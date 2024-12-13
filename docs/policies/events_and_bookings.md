@@ -1,5 +1,5 @@
 ---
-  title: Events & Bookings
+  title: Controller Events & Bookings
 
 ---
 # Events & Bookings
