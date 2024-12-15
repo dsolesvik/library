@@ -3,14 +3,14 @@
 |                     |                         |
 |:-------------------:|:-----------------------:|
 |         Type        |          Guide          |
-|       Revision      |         01/2025         |
-|    Effective Date   |       01 JAN 2025       |
+|       Revision      |         01/2024         |
+|    Effective Date   |       15 DEC 2024       |
 |     Prepared by     | Chriss Klosowski - ARB2 |
 |     Approved by     |  Chris Marriott - ARB1  |
-|   Next review date  |       01 JAN 2026       |
+|   Next review date  |       15 DEC 2025       |
 | Cancelled documents |  UAE TG SI R01-2021.pdf |
 
 ## Record of Revisions
 | Revision Number | Notes         | Effective Date |
 |:---------------:|---------------|----------------|
-|     01/2025     | Initial issue | 01 JAN 2025    |
+|     01/2024     | Initial issue | 15 DEC 2024    |

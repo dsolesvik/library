@@ -2,10 +2,7 @@ title: Controller Software Setup
 sort_type: natural
 nav:
     - info.md
-    - intro.md
     - audio.md
     - euroscope.md
     - vatis.md
-    - GRplugin.md
-    - TopSky.md
     
