@@ -194,7 +194,6 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 ### 3.4.3 Runway 16R arrival taxi procedures
 
 ### 3.4.4 Runway 34L arrival taxi procedures
-
 ### Taxi Instructions for Various Concourses and Aprons  
 | **Concourse/Apron**                             | **Instruction Details**                                                                                    |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------|
