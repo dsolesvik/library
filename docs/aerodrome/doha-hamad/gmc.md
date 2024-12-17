@@ -175,38 +175,52 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures
+Arriving aircraft should not be handed off by AIR immediately upon landing. Instead, they must receive initial taxi instructions to taxiways B, K, or M to maintain traffic flow.  
+
+Aircraft must avoid stopping on rapid exit taxiways and should proceed as follows, unless otherwise directed by the tower:  
+
+- **Vacating 16L:** Continue taxiing southbound via taxiway B.  
+- **Vacating 16R:** Continue southbound via taxiway K or M.  
+- **Vacating 16R with parking on Apron 5:** Expect a northbound turn onto taxiway K (HIRO does not apply).  
+- **Vacating 34L:** Continue northbound via taxiway M unless instructed to vacate to the east (HIRO does not apply when vacating east).  
+- **Vacating 34R:** Continue northbound via taxiway B.  
+
+Therefore, GMC should assign an arrival stand to aircraft as soon as they appear on the arrival list, as this facilitates the assignment of the arrival runway for terminal controllers.  
+
+Once the aircraft is handed off to GMC, they can be directed to their assigned stand.  
 
 ### 3.4.2 Runway 16L arrival taxi procedures
 
 ### 3.4.3 Runway 16R arrival taxi procedures
 
 ### 3.4.4 Runway 34L arrival taxi procedures
-#### 3.4.4.1 Concourse A, C (West), D, and Remote Transfer H
 
-
-#### 3.4.4.2 Concourse B, C (East), E, and Remote Transfer G
-
-
-#### 3.4.4.3 Central Concourse
-
-
-#### 3.3.4.4 Apron Cargo
-
-
-#### 3.3.4.5 Apron V
-
-
-#### 3.3.4.6 Apron 4
-
-
-#### 3.3.4.7 Apron 5
-
-
-#### 3.3.4.8 Apron 6
+### Taxi Instructions for Various Concourses and Aprons  
+| **Concourse/Apron**                             | **Instruction Details**                                                                                    |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via L4, L6, and L9 shall taxi to join K and then proceed to W1, W2, W3, W4, or H.        |
+| **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, B, and then proceed to E1, E2, E3, E4, or D. |
+| **Central Concourse**                           | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and then T1 or T2 to join N.                 |
+| **Cargo Apron**                                 | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and then C or B.                             |
+| **Apron V**                                     | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and B, and then proceed to C or D.           |
+| **Apron 4**                                     | Aircraft vacating via L4, L6, and L9 shall taxi to join K, R, and B to join Q.                             |
+| **Apron 5**                                     | Aircraft vacating via L4, L6, and L9 shall taxi to join K.                                                 |
+| **Apron 6**                                     | Aircraft vacating via M6, M8, and M10 shall taxi to join M, S1, and then proceed to S2 or S4.              |
 
 ### 3.4.5 Runway 34R arrival taxi procedures
+### Taxi Instructions for Various Concourses and Aprons  
+| **Concourse/Apron**                             | **Instruction Details**                                                                                 |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and proceed to W1, W2, W3, W4, or H.      |
+| **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via A4, A5, and A9 shall taxi to join B and proceed to E1, E2, E3, E4, or D.          |
+| **Central Concourse**                           | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and then T1 or T2 to join N.              |
+| **Cargo Apron**                                 | Aircraft vacating via A4, A5, and A9 shall taxi to join B or C.                                         |
+| **Apron V**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B and then proceed to C or D.                   |
+| **Apron 4**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B to join Q.                                    |
+| **Apron 5**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and K.                                    |
+| **Apron 6**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and S2, and then proceed to S2 or S4.     |
 
-### 3.4.9 Stand allocation procedure
+### 3.4.6 Stand allocation procedure
 |       Area       |        Stand Allocation       |                                                      Operator                                                     |
 |:----------------:|:-----------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 |                  |                               |                                                                                                                   |
