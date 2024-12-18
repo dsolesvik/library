@@ -121,21 +121,21 @@ On initial contact, aircraft shall be instructed to vacate at a designated taxiw
   <figcaption>Table 4-3: Standard runway exits</figcaption>
 </figure>
 
-### 4.4.1 Separation requirements
-#### 4.4.1.1 General
+### 4.4.2 Separation requirements
+#### 4.4.2.1 General
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
 
-#### 4.4.1.2 Speed control
+#### 4.4.2.2 Speed control
 If it is apparent that minimum separation may not exist as provided in 4.4.2.1, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
     **Controller**: "QTR36M, reduce to final approach speed."
 
-#### 4.4.1.3 Visual separation
+#### 4.4.2.3 Visual separation
 Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
-### 4.4.2 Go-around instruction
-#### 4.4.2.1 General go-around procedure
+### 4.4.3 Go-around instruction
+#### 4.4.3.1 General go-around procedure
 At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around.
 
 !!! example
@@ -146,10 +146,10 @@ Once aircraft have acknowledged the instruction and are observed to be safely cl
 !!! example
     **Controller**: "QTR36M, climb to 4000ft via standard missed approach, contact Doha Approach East 124.775."
 
-#### 4.4.2.2 Go-around with simultaneous departure in IMC or during LVO
+#### 4.4.3.2 Go-around with simultaneous departure in IMC or during LVO
 Aircraft shall be instructed to follow the standard missed approach and aircraft shall not be permitted to depart if an arriving aircraft is within **4 NM** of the landing threshold.
 
-### 4.4.3 Arrival taxi procedures
+### 4.4.4 Arrival taxi procedures
 In accordance with the taxi procedures laid down in 3.4, aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the rapid exit taxiway (RET) is clear for the next arrival.
 
 The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point.
@@ -250,7 +250,7 @@ CAT II/III holding points must be used during LVO for departing aircraft (Table 
 |   34L  |  L2/P1/P2/P3/P4/P5   |
 |   34R  |          A2          |
 <figure markdown>
-  <figcaption>Table 4-9: CATII/III holding points</figcaption>
+  <figcaption>Table 4-5: CATII/III holding points</figcaption>
 </figure>
 
 ## 4.8 Designated areas of responsibility
