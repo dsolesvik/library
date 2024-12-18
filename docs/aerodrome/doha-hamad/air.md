@@ -230,22 +230,12 @@ During LVO, aircraft must use CAT II/III holding points for all runways in order
 
 CAT II/III holding points must be used during LVO for departing aircraft (Table 5-4).
 
-| Runway | Holding Point |
-|:------:|:-------------:|
-|   16L  |      A10      |
-|   16R  |      L10      |
-|        |      M12      |
-|        |      P11      |
-|        |      P12      |
-|        |      P13      |
-|        |      P14      |
-|   34L  |       L2      |
-|        |       P1      |
-|        |       P2      |
-|        |       P3      |
-|        |       P4      |
-|        |       P5      |
-|   34R  |       A2      |
+| Runway |     Holding Point    |
+|:------:|:--------------------:|
+|   16L  |         A10          |
+|   16R  | L10/M12/P11/12/13/14 |
+|   34L  |  L2/P1/P2/P3/P4/P5   |
+|   34R  |          A2          |
 <figure markdown>
   <figcaption>Table 4-9: CATII/III holding points</figcaption>
 </figure>
