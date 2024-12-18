@@ -4,5 +4,5 @@ Areas marked in red are the responsibility of the AIR controller, while areas ma
 
 ## 7.2 General Configuration
 <figure markdown>
-![16L Departure Diagram](img/othh_aor.png)
+![Area of Responsibility](img/othh_aor.png)
 </figure>

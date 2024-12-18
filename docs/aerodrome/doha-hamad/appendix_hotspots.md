@@ -4,5 +4,5 @@ The hotspots shown on the diagram correspond to the lettered hotspots described 
 
 ## 8.2 General Hotspots
 <figure markdown>
-![16L Departure Diagram](img/othh_hotspots.png)
+![Hotspots](img/othh_hotspots.png)
 </figure>
