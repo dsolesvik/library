@@ -108,6 +108,19 @@ For aircraft that have been given a take-off clearance, but have not yet started
     **Controller**: "IBE392, hold position, cancel take-off, I say again cancel take-off, aircraft entering the runway, acknowledge."
 
 ## 4.4 Arrival Procedures
+### 4.4.1 Standard runway exits
+On initial contact, aircraft shall be instructed to vacate at a designated taxiway for arrival. The planned exit point shall be one of the preferred exit taxiways (Table 5-2).
+
+| Runway | Runway Exit |
+|:------:|:-----------:|
+|   16L  |      A7     |
+|   16R  |    L5/M7    |
+|   34L  |    L6/M8    |
+|   34R  |      A5     |
+<figure markdown>
+  <figcaption>Table 4-3: Standard runway exits</figcaption>
+</figure>
+
 ### 4.4.1 Separation requirements
 #### 4.4.1.1 General
 While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
