@@ -1,7 +1,7 @@
 # Document Information
 ## Document Control Details
 |                     |                            |
-|:-------------------:|:--------------------------:|
+|---------------------|----------------------------|
 |         Type        |          Procedure         |
 |       Revision      |           01/2024          |
 |    Effective Date   |         18 DEC 2024        |
