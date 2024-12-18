@@ -190,8 +190,41 @@ Therefore, GMC should assign an arrival stand to aircraft as soon as they appear
 Once the aircraft is handed off to GMC, they can be directed to their assigned stand.  
 
 ### 3.4.2 Runway 16L arrival taxi procedures
+| **Concourse/Apron**                             | **Instruction Details**                                                                       |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via A8 and A7: Taxi to join S, K, and proceed to W1, W2, W3, W4, or H.      |
+|                                                 | Aircraft vacating via A3: Taxi to join C, S, K, and proceed to W1, W2, W3, W4, or H.          |
+| **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via A8, A7, and A3: Taxi to join B and proceed to E1, E2, E3, E4, or D.     |
+| **Central Concourse**                           | Aircraft vacating via A8 and A7: Taxi to join S and proceed to T1 or T4 to join N.            |
+|                                                 | Aircraft vacating via A3: Taxi to join C, S and proceed to T1 or T4 to join N.                |
+| **Cargo Apron**                                 | Aircraft vacating via A8 and A7: Taxi to join B.                                              |
+|                                                 | Aircraft vacating via A3: Taxi to join C.                                                     |
+| **Apron V**                                     | Aircraft vacating via A8, A7, and A3: Taxi to join B to join C or D.                          |
+| **Apron 4**                                     | Aircraft vacating via A8 and A7: Taxi to join B and then Q.                                   |
+|                                                 | Aircraft vacating via A3: Taxi to join C and then Q.                                          |
+| **Apron 5**                                     | Aircraft vacating via A8 and A7: Taxi to join S and K.                                        |
+|                                                 | Aircraft vacating via A3: Taxi to join C, S and K.                                            |
+| **Apron 6**                                     | Aircraft vacating via A8 and A7: Taxi to join S and S1 to join S2 or S4.                      |
+|                                                 | Aircraft vacating via A3: Taxi to join C, S and S1 to join S2 or S4.                          |
 
 ### 3.4.3 Runway 16R arrival taxi procedures
+| **Concourse/Apron**                             | **Instruction Details**                                                                          |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via L8 and L5: Taxi to join K, R, B, and proceed to join E1, E2, E3, E4, or D. |
+|                                                 | Aircraft vacating via L3: Taxi to join J, R, B, and proceed to join E1, E2, E3, E4, or D.        |
+| **Concourse B, C (East), D, Remote Transfer G** | Aircraft vacating via L8, L5, and L3: Taxi to join K and proceed to join W1, W2, W3, W4, or H.   |
+| **Central Concourse**                           | Aircraft vacating via L8 and L5: Taxi to join K, R and proceed via T1 or T4 to join N.           |
+|                                                 | Aircraft vacating via L3: Taxi to join J, R, and proceed via T1 or T4 to join N.                 |
+| **Cargo Apron**                                 | Aircraft vacating via L8 and L5: Taxi to join K, R, and C.                                       |
+|                                                 | Aircraft vacating via L3: Taxi to join J, R, and C.                                              |
+| **Apron V**                                     | Aircraft vacating via L8 and L5: Taxi to join K, R, and B to join C or D.                        |
+|                                                 | Aircraft vacating via L3: Taxi to join J, K, R, and B to join C or D.                            |
+| **Apron 4**                                     | Aircraft vacating via L8 and L5: Taxi to join K, R, and C or B.                                  |
+|                                                 | Aircraft vacating via L3: Taxi to join J, R, and C or B.                                         |
+| **Apron 5**                                     | Aircraft vacating via L8 and L5: Taxi to join K.                                                 |
+|                                                 | Aircraft vacating via L3: Taxi to join J, R, and K.                                              |
+| **Apron 6**                                     | Aircraft vacating via M9 and M7: Taxi to join M, S1, to proceed to S2 or S4.                     |
+|                                                 | Aircraft vacating via M5: Taxi to join M and proceed to either S1 or P8 to join either S2 or S4. |
 
 ### 3.4.4 Runway 34L arrival taxi procedures
 ### Taxi Instructions for Various Concourses and Aprons  
@@ -220,30 +253,76 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | **Apron 6**                                     | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and S2, and then proceed to S2 or S4.     |
 
 ### 3.4.6 Stand allocation procedure
-|       Area       |        Stand Allocation       |                                                      Operator                                                     |
-|:----------------:|:-----------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
-|                  |                               |                                                                                                                   |
+|  Apron/Concourse  |            Stand Allocation           |                     Operator                    |
+|:-----------------:|:-------------------------------------:|:-----------------------------------------------:|
+|    Concourse A    |            Stands A1 to A11           |           International Operators, QTR          |
+|    Concourse B    |            Stands B1 to B10           |           International Operators, QTR          |
+|    Concourse C    |            Stands C1 to C13           |           International Operators, QTR          |
+|    Concourse D    |            Stands D1 and D3           |           International Operators, QTR          |
+|    Concourse E    |            Stands E1 and E3           |           International Operators, QTR          |
+| Central Concourse |           Stands 301 to 309           |                       QTR                       |
+| Remote Transfer G |            Stands H1 to H10           | Low Cost Carriers, International Operators, QTR |
+| Remote Transfer H |            Stands G1 to G10           | Low Cost Carriers, International Operators, QTR |
+|    Cargo Apron    |            Stands F1 to F16           |              Cargo, QTR (Overflow)              |
+|      Apron V      |            Stands V1 to V12           |            Government & State Aircraft          |
+|      Apron 4      |           Stands 425 to 429           |                       QTR                       |
+|      Apron 5      | Stands 501 to 519 & Stands 551 to 564 |                       QTR                       |
+|      Apron 6      |           Stands 601 to 637           |                       QTR                       |
 <figure markdown>
   <figcaption>Table 3-1: Stand allocation procedure</figcaption>
 </figure>
 
 ### 3.4.10 Stand restrictions
+| **Location**                                                                  | **Aircraft Code Handling**                                                                                                                                                      |
+|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Concourse A to E (including Central Concourse and Remote Transfer Aprons)** | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
+| **Cargo Apron**                                                               | All stands can handle aircraft up to code E.                                                                                                                                    |
+| **Apron V**                                                                   | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
+| **Apron 4**                                                                   | All stands can handle aircraft up to code C.                                                                                                                                    |
+| **Apron 5**                                                                   | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C. Stands 551 to 564 are limited to code C.                                  |
+| **Apron 6**                                                                   | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
+| **Specific Stands**                                                           | Stands A3, A5, B1, B3, C12, C13, V1, V2, 604, 607, 611, and 614 can handle aircraft up to code F. H1 and G1 can handle aircraft up to code F with certain handling limitations. |
 
 ## 3.5 Low visibility operations (LVO)
 ### 3.5.1 LVO taxi routes
+When LVO is in effect, aircraft should avoid crossing the runways whenever possible. All taxiways are approved for LVO operations, and there are no taxiway restrictions.
+
+During LVO, only designated CAT II/III holding points shall be used (4.6.2).
 
 ## 3.6 Designated areas of responsibility
 ### 3.6.1 GMC positions
+Doha-Hamad Airport operates three GMC positions: GMC 1, GMC 2, and GMC 3.
+
+#### 3.6.1.1 GMC 1 Responsibilities
+GMC 1 manages aircraft movements in the following areas and their associated taxiways:
+- Concourse B  
+- Concourse C (East Side)  
+- Concourse E  
+- Central Concourse (shared with GMC 2)  
+- Remote Transfer G  
+- Cargo Apron  
+- Maintenance Apron  
+- Apron 4  
+
+#### 3.6.1.2 GMC 2 Responsibilities
+GMC 2 manages aircraft movements in the following areas and their associated taxiways:
+- Concourse A  
+- Concourse C (West Side)  
+- Concourse D  
+- Central Concourse (shared with GMC 1)  
+- Remote Transfer H1  
+- Apron 5  
+
+#### 3.6.1.3 GMC 3 Responsibilities
+GMC 3 manages aircraft movements in the following area and its associated taxiways:
+- Apron 6  
 
 ### 3.6.2 Handoff procedures
+When transferring control between controllers, aircraft must not be cleared beyond the current controller’s designated area of responsibility unless prior coordination has been completed with the next controller. Hold short instructions may be issued to meet this requirement.
 
 ### 3.6.3 Splitting procedure
+When a single GMC controller is online, they shall manage all surface movement areas from the GMC 1 position. 
+
+Unless otherwise authorized by Arabian vACC staff, GMP (Hamad Delivery) must be online before three GMC (Hamad Ground) positions can be opened.
+
+If GMP is not online, GMC shall assume the responsibilities of the lower controller.
