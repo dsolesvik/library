@@ -171,7 +171,7 @@ Take-off clearance may be issued to a departing aircraft, commencing its take-of
 - **RWY 34L:**  
   The preceding aircraft will be airborne and have passed a point at least 2400 meters from the threshold (abeam TWY L8) by the time the succeeding aircraft begins its take-off roll. Minimum separation will continue to exist, constant or increasing, between the two departing aircraft immediately after the second aircraft's take-off.
 
-!!! Note
+!!! note
     The succeeding departure may commence its take-off roll, subject to the same conditions, when departing from:
 
     - **RWY 16L** from A11  
@@ -179,26 +179,93 @@ Take-off clearance may be issued to a departing aircraft, commencing its take-of
     - **RWY 16R** from L11  
     - **RWY 34L** from L1  
 
+### 4.5.3 Landing following landing
+When the runway in use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided the controller has reasonable assurance that the following separation distances and criteria will be met when the landing aircraft crosses the runway threshold:
+
+- **RWY 16L:**  
+  The preceding landing aircraft has landed and vacated the runway, or has passed a point at least 2400 meters from the threshold (abeam TWY A5), and is in motion to vacate the runway without stopping or backtracking.
+
+- **RWY 34R:**  
+  The preceding landing aircraft has landed and vacated the runway, or has passed a point at least 2400 meters from the threshold (abeam TWY A7), and is in motion to vacate the runway without stopping or backtracking.
+
+- **RWY 16R:**  
+  The preceding landing aircraft has landed and vacated the runway, or has passed a point at least 2400 meters from the threshold (abeam TWY R), and is in motion to vacate the runway without stopping or backtracking.
+
+- **RWY 34L:**  
+  The preceding landing aircraft has landed and vacated the runway, or has passed a point at least 2400 meters from the threshold (abeam TWY L8), and is in motion to vacate the runway without stopping or backtracking.
+
+!!! note
+    Landing RRSM (Reduced Runway Separation Minimum) will only be applied between two successive arrivals, provided both aircraft have been instructed to vacate at published Rapid Exit Taxiways (RETs).
+
+### 4.5.4 Landing following departure
+When the runway in use is temporarily occupied by other traffic, landing clearance may be issued to an arriving aircraft, provided the controller has reasonable assurance that the following separation distances and criteria will be met when the landing aircraft crosses the runway threshold:
+
+- **RWY 16L:**  
+  The preceding departing aircraft will be airborne and have passed a point at least 2400 meters from the threshold (abeam TWY A5), or if not airborne, will be at least 2400 meters from the threshold.
+
+- **RWY 34R:**  
+  The preceding departing aircraft will be airborne and have passed a point at least 2400 meters from the threshold (abeam TWY A7), or if not airborne, will be at least 2400 meters from the threshold.
+
+- **RWY 16R:**  
+  The preceding departing aircraft will be airborne and have passed a point at least 2400 meters from the threshold (abeam TWY R), or if not airborne, will be at least 2400 meters from the threshold.
+
+- **RWY 34L:**  
+  The preceding departing aircraft will be airborne and have passed a point at least 2400 meters from the threshold (abeam TWY L8), or if not airborne, will be at least 2400 meters from the threshold.
+
+!!! note
+    Pilots should be aware of the possibility of a go-around if no landing clearance has been received when approaching 2 NM from the threshold, with another aircraft lined up or departing.
+
 ## 4.7 Low visibility operations (LVO)
 ### 4.7.1 Commencement of LVO
+Low visibility operations (LVO) are commenced at Doha-Hamad when:
+
+- Touchdown RVR is indicated to be 600 metres or less;
+- Reported meteorological visibility is 600 metres or less;
+- The reported cloud ceiling is less than 300 feet
+
+LVO may be pre-emptively initiated when RVR or meteorological visibility is reported at or below 1500 m and forecast to reduce below LVO minima, or the cloud ceiling is reported as 500 ft, and forecast to reduce below LVO minima. 
 
 ### 4.7.2 LVO departure procedures
+During LVO, aircraft must use CAT II/III holding points for all runways in order to protect ILS-critical areas. 
+
+CAT II/III holding points must be used during LVO for departing aircraft (Table 5-4).
 
 | Runway | Holding Point |
 |:------:|:-------------:|
-|        |               |
-|        |               |
-|        |               |
-|        |               |
+|   16L  |      A10      |
+|   16R  |      L10      |
+|        |      M12      |
+|        |      P11      |
+|        |      P12      |
+|        |      P13      |
+|        |      P14      |
+|   34L  |       L2      |
+|        |       P1      |
+|        |       P2      |
+|        |       P3      |
+|        |       P4      |
+|        |       P5      |
+|   34R  |       A2      |
 <figure markdown>
   <figcaption>Table 4-9: CATII/III holding points</figcaption>
 </figure>
 
-### 4.7.3 LVO arrival procedures
-
 ## 4.8 Designated areas of responsibility
 ### 4.8.1 AIR positions
+Doha-Hamad has two AIR positions: AIR 1 and AIR 2.
+
+- **AIR 1** controls runway 16L/34R, including all associated exit taxiways and runway holding points.
+- **AIR 2** controls runway 16R/34L, including all associated exit taxiways and runway holding points.
+
+The airspace around the airport is divided along the middle of the main concourse. AIR 1 is responsible for the airspace to the east of the concourse, while AIR 2 is responsible for the airspace to the west.
+
+(See sections 6.2 and 6.3)
 
 ### 4.8.2 Handoff procedure
+Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Hold short instructions may be used to satisfy this requirement.
+For runway crossings, the crossing instruction must only be issued by the designated AIR controller for the respective runway unless prior coordination has been conducted.
 
 ### 4.8.3 Splitting procedure
+Where there is only one controller, they shall cover all runways and associated airspace from the AIR 1 position. 
+
+Unless otherwise authorised by the Arabian vACC staff, GMP (Hamad Clearance Delivery) and at least one GMC (Hamad Ground) position must be online before two AIR (Hamad Tower) positions may be opened.
