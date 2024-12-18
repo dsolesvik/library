@@ -227,7 +227,6 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 |                                                 | Aircraft vacating via M5: Taxi to join M and proceed to either S1 or P8 to join either S2 or S4. |
 
 ### 3.4.4 Runway 34L arrival taxi procedures
-### Taxi Instructions for Various Concourses and Aprons  
 | **Concourse/Apron**                             | **Instruction Details**                                                                                    |
 |-------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via L4, L6, and L9 shall taxi to join K and then proceed to W1, W2, W3, W4, or H.        |
@@ -240,7 +239,6 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 | **Apron 6**                                     | Aircraft vacating via M6, M8, and M10 shall taxi to join M, S1, and then proceed to S2 or S4.              |
 
 ### 3.4.5 Runway 34R arrival taxi procedures
-### Taxi Instructions for Various Concourses and Aprons  
 | **Concourse/Apron**                             | **Instruction Details**                                                                                 |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Concourse A, C (West), D, Remote Transfer H** | Aircraft vacating via A4, A5, and A9 shall taxi to join B, S, and proceed to W1, W2, W3, W4, or H.      |
