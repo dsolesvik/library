@@ -24,7 +24,7 @@ Handoffs between controllers must be conducted early enough to allow the next se
 </figure>
 
 ## 3.4 Handoff procedure
-### 3.4.1 Doha TMA - Departures - Doha 15 / Hamad 16s 
+### 3.4.1 Departures - Doha 15 / Hamad 16s 
 | Departure Aerodrome | Runway |   SID   |                Handoff procedure             |
 |:-------------------:|:------:|:-------:|:--------------------------------------------:|
 |         OTHH        |   16L  | ALSEM2M |   Approach East → Radar North → U.A.E Radar  |
@@ -53,7 +53,7 @@ Handoffs between controllers must be conducted early enough to allow the next se
   <figcaption>Table 3-2: Doha TMA departure handoffs (OTBD 15/OTHH 16s)</figcaption>
 </figure>
 
-### 3.4.2 Doha TMA - Departures - Doha 33 / Hamad 34s
+### 3.4.2 Departures - Doha 33 / Hamad 34s
 | Departure Aerodrome | Runway |   SID   |                Handoff procedure             |
 |:-------------------:|:------:|:-------:|:--------------------------------------------:|
 |         OTHH        |   34L  | DATRI1W | Approach West → Radar South → Jeddah Control |
@@ -85,13 +85,13 @@ Handoffs between controllers must be conducted early enough to allow the next se
   <figcaption>Table 3-3: Doha TMA departure handoffs (OTBD 33/OTHH 34s)</figcaption>
 </figure>
 
-### 3.4.3 Doha TMA - Arrivals - Doha 15 / Hamad 16s
+### 3.4.3 Arrivals - Doha 15 / Hamad 16s
 
 <figure markdown>
   <figcaption>Table 3-4: Doha TMA arrivals handoffs (OTBD 15/OTHH 16s)</figcaption>
 </figure>
 
-### 3.4.4 Doha TMA - Arrivals - Doha 33 / Hamad 34s
+### 3.4.4 Arrivals - Doha 33 / Hamad 34s
 
 <figure markdown>
   <figcaption>Table 3-5: Doha TMA arrivals handoffs (OTBD 33/OTHH 34s)</figcaption>
