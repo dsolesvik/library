@@ -1,14 +1,14 @@
 # 3. Designated areas of responsibility (AoR)
 ## 3.1 General
-→ reduce workload during peak periods, the Doha TMA may be divided in→ a maximum of seven sec→rs. Each sec→r is assigned specific departures and arrivals and must adhere → standard level clearance and handoff procedures → maintain separation.  
+To reduce workload during peak periods, the Doha TMA may be divided into a maximum of seven sectors. Each sector is assigned specific departures and arrivals and must adhere to standard level clearance and handoff procedures to maintain separation.  
 
 ## 3.2 Coordination between controllers
-Clearances for direct routing → waypoints, radar vec→rs before the downwind leg, or deviations from standard level clearances within designated controller Areas of Responsibility (AoRs) must not be issued without prior coordination between the relevant controllers.  
+Clearances for direct routing to waypoints, radar vectors before the downwind leg, or deviations from standard level clearances within designated controller Areas of Responsibility (AoRs) must not be issued without prior coordination between the relevant controllers.  
 
-Handoffs between controllers must be conducted early enough → allow the next sec→r → facilitate continuous climb or descent, provided no conflicts exist with other traffic and separation is maintained.  
+Handoffs between controllers must be conducted early enough to allow the next sectors to facilitate continuous climb or descent, provided no conflicts exist with other traffic and separation is maintained.  
 
-## 3.3 Sec→rs - Doha TMA
-|    Logon   |       Sec→r       |  Radio Callsign |                   Area of Responsibility                   |
+## 3.3 Sectors - Doha TMA
+|    Logon   |       Sector       |  Radio Callsign |                   Area of Responsibility                  |
 |:----------:|:------------------:|:---------------:|:---------------------------------------------------------:|
 | DOH_R1_APP |    Radar (North)   |   "DOHA RADAR"  | Departure services for: ALSEM, ALVEN, LUBET, TULUB, VAXIN |
 |            |                    |                 |      Arrival services for: ALKAN, HAYYA, TOSNA, VEDED     |
