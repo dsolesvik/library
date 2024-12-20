@@ -13,7 +13,7 @@ By being a member of the vACC pilots and controllers are bound by the procedures
 All members shall follow the general points listed below:
 
 1.	Members shall follow the VATSIM Code of Conduct.
-2.	Members shall be in good standing with the Emirates vACC, VATMENA, VATEMEA and VATSIM.
+2.	Members shall be in good standing with the Arabian vACC, VATMENA, VATEMEA and VATSIM.
 3.	Any controller who, after careful investigation, has been found to have violated any article of the VATSIM Code of Conduct as either a controller, pilot or observer shall be immediately removed from the Arabian vACC roster without prior notice.
 4.	Controllers shall always comply with all training standards and all policies found on the Arabian vACC official training system and all SOPs, vMATS, Operational Changes, and Letters of Agreement.
 5.	Hate speech, violence, derogatory remarks, or personal attacks towards pilots on frequency shall result in termination of membership from the Arabian vACC without prejudice. A controller who has been found to be in violation of this requirement shall also be reported to the VATSIM network. 
