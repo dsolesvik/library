@@ -90,7 +90,7 @@ Members who join the Arabian vACC with the ATC rating of Observer (OBS) will be 
 Pilots who encounter instances where a controller does not adhere to the above procedures are encouraged to fill out this form to submit a report. This will allow Arabian vACC staff to investigate the issue further. The form can be found at [vats.im/arb/feedback](https://vats.im/arb/feedback).
 
 ## Discord
-## Rules
+### Rules
 1. The Arabian vACC Discord server is for hobby-related discussions only. Any person found insulting, bullying, or harassing another user will be removed from the Discord server and have their membership in the Arabian vACC terminated without prejudice.
 2. Users who are streaming should indicate it in their name. For example: Chris M (S) or Sam J (Stream).
 3. Be respectful, civil, and welcoming.
@@ -102,7 +102,7 @@ Pilots who encounter instances where a controller does not adhere to the above p
 9. No political or religious discussions.
 10. Ensure your nickname is set to "name - VATSIM CID/Staff position." For example: John Doe - 1234567 or Chris Marriott - ACCARB1, or any other format accepted under the VATSIM naming convention.
 
-## Usage
+### Usage
 1. Controllers are required to be in Discord coordination channels for event briefings and for the duration of events, unless granted express permission by the ATC Training Director or the Deputy ATC Training Director.
 2. When communicating with other sectors on Discord, a controller should join the channel, state their callsign (and the callsign of the controller they are addressing, if there are multiple controllers in the channel), and wait for the controller to say “pass your message.” Note: Callsign can be replaced with the controller’s name.
 3. Controllers shall refrain from muting their speakers and/or headset in the Discord server. Instead, they should move to an empty room or ask controllers not involved in that sector to move or remain quiet, unless coordinating.
