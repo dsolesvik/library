@@ -67,7 +67,7 @@ While RNP approaches are available, they should only be assigned if specifically
 ### 3.1.4 Visual approach
 Visual approaches may be initiated by Approach (APP) or requested by the pilot. When a pilot accepts a visual approach, they confirm their ability to visually maintain safe terrain clearance and take responsibility for ensuring a safe landing interval behind the preceding aircraft.  
 
-APP may initiate a visual approach under the following conditions:  
+APP may initiate a visual approach under the following conditions:
 - The pilot agrees to the visual approach;  
 - The pilot reports having the preceding aircraft in sight and accepts responsibility for maintaining separation;  
 - A caution regarding potential wake turbulence has been issued, where applicable.  
@@ -77,7 +77,7 @@ If the minimum wake turbulence separation cannot be guaranteed, controllers may 
 ### 3.1.5 Change of runway or approach type
 Controllers must not initiate a change to the approach type or runway within 30 NM of touchdown. However, pilots may request a change to the approach type or runway at any time.  
 
-## 3.2 Spped control
+## 3.2 Speed control
 ### 3.2.1 General
 Whenever possible, aircraft should be assigned speeds in accordance with Section 3.2.2 to ensure separation is maintained.  
 
