@@ -58,6 +58,9 @@ vATIS is a software tool that enables controllers to create and broadcast multip
   - **/D** = Departure ATIS.  
   - **/A** = Arrival ATIS.  
   - **ICAO code only** = Combined ATIS.
+
+!!! warning
+    When running dual ATIS connections (i.e. separate departures and arrivals ATISes), ensure that the two ATIS letters are different and not the same! E.g. departing ATIS could be D, arriving ATIS could be P. This is to verify the pilot receives the correct ATIS letter. 
   
 <figure markdown>
 ![vATIS: Available Aerdromes](img/vatis_aerodromes.png)
