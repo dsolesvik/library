@@ -139,5 +139,5 @@ Once the traffic is closer to the aerodrome, they shall be given circuit joining
 
 VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions. VFR aircraft may also be told to orbit at any VRP inside the CTR.
 
-## 4.6 Second Muscat Tower position
+## 4.6 Secondary Muscat Tower position
 Muscat AIP has defined a secondary (south) tower position, for the southern runway (08R/26L). At this time, the runway remains closed as per updated NOTAMs. This section of the SOP will be updated when this changes. 
