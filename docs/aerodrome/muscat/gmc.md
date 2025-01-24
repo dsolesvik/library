@@ -79,7 +79,7 @@ Arriving traffic headed to the south side of the terminal will taxi via N G and 
 Traffic going to the south side of the aerodrome (south of runway 08R/26L) will taxi via N H E1, D1. 
 
 ### 3.4.2 Stand allocation procedure
-Aircraft shall be assigned stan,s automatically using the StandAssigner system wherever possible. Muscat does not feature operator depended stands. So all passenger operators will get a random stand at the terminal assigned.
+Aircraft shall be assigned stands automatically using the Ground Radar Plugin (GRplugin) system wherever possible. Muscat does not feature operator depended stands. So all passenger operators will get a random stand at the terminal assigned.
 
 For cargo operators, there is a dedicated cargo apron on the east side of the airport at taxiway H. The south side of the airport is used by GA, VIP and military aircraft but not by commercial passenger airlines.
 
