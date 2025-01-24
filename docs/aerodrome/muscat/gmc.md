@@ -84,8 +84,7 @@ Aircraft shall be assigned stands automatically using the Ground Radar Plugin (G
 For cargo operators, there is a dedicated cargo apron on the east side of the airport at taxiway H. The south side of the airport is used by GA, VIP and military aircraft but not by commercial passenger airlines.
 
 ### 3.4.3 Stand restrictions
-Most stands can not accommodate an A380 or a B748 aircraft. Use the stand assigner or the file OOMS.csv located within the OOMM sectorfile, under OOMM/Plugins/ARBControllerPack/OOMS to determine which stand is capable of which parking code or use the StandAssigner, which will automatically take these restrictions into
-account. All terminal stands are minimum code C (A320/B838) capable.
+TBD
 
 ## 3.5 Low visibility operations (LVO)
 As there are no active runway crossings necessary, there are no specific operational requirements during low visibility conditions. If the RVR falls below 550m, take-offs are not allowed.
