@@ -13,7 +13,7 @@ Muscat has many published instrument departures, including RNAV and conventional
 | 08L    | MURMA1N |
 | 26R    | ITLAK1N |
 
-The initial climb is 3000ft in all cases. When a radar controller is online, aircraft will receive radar vectors e route after MURMA or ITLAK respectively. Thus, it is wise to know that if aircraft are departing on UNICOM, they will be responsible for self-vectoring themselves to join their cleared airway. 
+The initial climb is 3000ft in all cases. When a radar controller is online, aircraft will receive radar vectors enroute after MURMA or ITLAK respectively. Thus, it is wise to know that if aircraft are departing on UNICOM, they will be responsible for self-vectoring themselves to join their cleared airway. 
 
 ## 2.3 Departure clearance
 ### 2.2.1 General
@@ -45,7 +45,7 @@ All aircraft must follow airway routes and fly on valid airways out of Omani air
 
 If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged.
 
-The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the "User Submitted Routes" option, highlighted in purple, when planning a flight.
+The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the "User Submitted Routes" option, highlighted in purple, when planning a flight. These routes also appear as "blue" routes, that are Eurocontrol IFPS compliant. 
 
 
 !!! example
