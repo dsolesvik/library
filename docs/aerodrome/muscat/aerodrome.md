@@ -11,12 +11,12 @@
 ### 1.2.1 List of ATS callsigns
 | Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
-| Muscat Radar                | OOMS_APP         | APP            | 121.200     |
-| Muscat Tower North          | OOMS_1_TWR       | MTN            | 118.825     |
-| Muscat Tower South          | OOMS_2_TWR       | MTS            | 118.400     |
-| Muscat Ground North         | OOMS_1_GND       | MGN            | 127.875     |
-| Muscat Ground South         | OOMS_2_GND       | MGS            | 121.800     |
-| Muscat Delivery             | OOMS_DEL         | CLD            | 125.575     |
+| Muscat Radar                | OOMS_APP         | RDR            | 121.200     |
+| Muscat Tower North          | OOMS_1_TWR       | AIR 1          | 118.825     |
+| Muscat Tower South          | OOMS_2_TWR       | AIR 2          | 118.400     |
+| Muscat Ground North         | OOMS_1_GND       | GMC 1          | 127.875     |
+| Muscat Ground South         | OOMS_2_GND       | GMC 2          | 121.800     |
+| Muscat Delivery             | OOMS_DEL         | GMP            | 125.575     |
 | Muscat Information          | OOMS_ATIS        | ATIS           | 126.800     |
 
 ### 1.2.2 ATS airspace
